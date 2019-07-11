@@ -1,0 +1,69 @@
+#!/usr/bin/env python
+
+import feedparser
+
+from datetime import datetime
+import re
+from urllib.parse import urlparse
+from pathlib import (
+    PosixPath,
+    Path,
+)
+import json
+
+sanitize_re = re.compile('[^a-zA-Z0-9.]')
+
+def main(url):
+    """
+    Parameters
+    ----------
+    url : str
+      Feed URL
+    """
+    parsed = feedparser.parse(url)
+    feeddir = Path(sanitize_re.sub('_', parsed['feed']['title']))
+    meta_basepath = Path('.feed_metadata.jsonld')
+    for entry in parsed['entries']:
+        # first we need to build the target filename that annex importfeed
+        # would generate so we know where to place the metadata
+        published = datetime(*entry['published_parsed'][:6])
+        published_date = published.date().strftime('%Y_%m_%d')
+        fpath = PosixPath(urlparse(entry['link']).path)
+        media_path = feeddir / '{}__{}{}'.format(
+            published_date,
+            sanitize_re.sub('_', entry['title']),
+            fpath.suffix,
+        )
+        # p[ick out the link entry for the MP3
+        media_link = [l for l in entry['links'] if l['type'] == 'audio/mpeg'][0]
+
+        # now we can write out the metadata documents
+        doc = {
+            '@context': "https://schema.org/",
+            '@type': 'MediaObject',
+            'distribution': {
+                '@type': 'DataDownload',
+                'contentURL': entry['link'],
+            },
+            # TODO duration in ISO 8601
+            'name': entry['title'],
+            'description': entry['summary'],
+            'encodingFormat': media_link['type'],
+            'contentSize': media_link['length'],
+            'creator': {
+                "@type": "Organization",
+                'name': entry['author'],
+            },
+            'datePublished': published.isoformat(),
+        }
+        meta_path = meta_basepath / '{}.json'.format(str(media_path))
+        meta_path.parent.mkdir(exist_ok=True, parents=True)
+        meta_path.write_text(
+            json.dumps(doc)
+        )
+
+
+if __name__ == "__main__":
+    # execute only if run as a script
+    import sys
+    main(sys.argv[1])
