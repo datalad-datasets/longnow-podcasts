@@ -13,6 +13,7 @@ import json
 
 sanitize_re = re.compile('[^a-zA-Z0-9.]')
 
+
 def main(url):
     """
     Parameters
@@ -35,7 +36,8 @@ def main(url):
             fpath.suffix,
         )
         # p[ick out the link entry for the MP3
-        media_link = [l for l in entry['links'] if l['type'] == 'audio/mpeg'][0]
+        media_link = [
+            l for l in entry['links'] if l['type'] == 'audio/mpeg'][0]
 
         # now we can write out the metadata documents
         doc = {
@@ -45,7 +47,9 @@ def main(url):
                 '@type': 'DataDownload',
                 'contentURL': entry['link'],
             },
-            # TODO duration in ISO 8601
+            # duration in ISO_8601
+            'duration': 'PT{}M{}S'.format(
+                *entry['itunes_duration'].split(':')),
             'name': entry['title'],
             'description': entry['summary'],
             'encodingFormat': media_link['type'],
