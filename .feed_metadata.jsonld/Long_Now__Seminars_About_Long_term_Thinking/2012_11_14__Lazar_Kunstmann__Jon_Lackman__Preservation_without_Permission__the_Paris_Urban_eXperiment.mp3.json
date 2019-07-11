@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"90595602",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-11-14T03:30:00",
+"description":
+"There is at least as much underneath Paris as there is above it.  The secretive members of the Paris Urban eXperiment, known internally as \"The UX\", have spent the last 30 years surreptitiously probing into this world - and improving it.  A few years ago these underground hackers and artists became infamous when one morning the clock at the Panthéon, that had not worked in years, began chiming.  It was just one of at least 15 such restorations done without permission.  \n\nIn a first-time-ever public presentation, the UX spokesman, who goes under the name Lazar Kunstmann, along with author Jon Lackman from Wired, will present some of the theory and work of the Urban eXperiment.  Lackman chronicled much of their work in the February print edition of Wired---which is co-sponsoring this event.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020121113-kunstmann-lackman-podcast.mp3"
+},
+"duration":
+"PT94M19S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Lazar Kunstmann, Jon Lackman: Preservation without Permission: the Paris Urban eXperiment"
+}

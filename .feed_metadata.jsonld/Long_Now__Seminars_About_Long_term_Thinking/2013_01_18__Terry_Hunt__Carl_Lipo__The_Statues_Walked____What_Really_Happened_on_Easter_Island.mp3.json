@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"96658492",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-01-18T03:30:00",
+"description":
+"Was it ecocide?  The collapse of the mini-civilization on Easter Island (Rapa Nui) has long been considered one of the great Green morality tales.  Once the people there cut down the last tree, story goes, they were doomed.  Their famous statues were an arms race that completed the exhaustion of their all-too-finite resources.  Moral of the story: Easter Island equals Earth Island: we must not repeat its tragedy with the planet. \n\nIt’s a satisfying tale, but apparently wrong.  The reality is far more interesting.\n\nIn fact the lesson of Rapa Nui is how to get ecological caretaking right, not wrong.  Its people appear to have worked out an astutely delicate relationship to each other and to the austere ecology of their tiny island and its poor soil.  They were never violent.  The astonishing statues appear to have been an inherent part of how they managed population and ecological balance on their desert island.  (Their method of moving the huge statues was clever and surprisingly easy---they walked them upright.  See the amazing demonstration video!)  The famous collapse came from a familiar external source---European diseases and enslavement, the same as everywhere else in the Americas and the Pacific.\n\nAll this is in a thoroughly persuasive book by an archaeologist and an anthropologist who did extensive fieldwork and historical study on Easter Island--- THE STATUES THAT WALKED: Unraveling the Mystery of Easter Island, by Terry Hunt and Carl Lipo.  The authors present their case live in January’s SALT talk.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130117-hunt-lipo-podcast.mp3"
+},
+"duration":
+"PT100M38S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Terry Hunt, Carl Lipo: The Statues Walked -- What Really Happened on Easter Island"
+}

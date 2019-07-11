@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"59979926",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-12-01T08:15:07",
+"description":
+"Recent research shows that genetics as well as environment contribute to our political opinions. Social and political psychologist Rose McDermott of Brown Univiersity, a Stanford CASBS fellow, explains the biological foundations of ideology, how conservative and liberals react to each other's scent, and much more. From July 02016.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160719-mcdermott-podcast.mp3"
+},
+"duration":
+"PT60M50S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ideology in our Genes: The Biological Basis for Political Traits: Rose McDermott"
+}

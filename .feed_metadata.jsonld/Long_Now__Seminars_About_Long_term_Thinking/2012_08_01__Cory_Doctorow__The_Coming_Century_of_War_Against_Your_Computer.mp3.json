@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"85005651",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-08-01T02:30:00",
+"description":
+"The war against computer freedom will just keep escalating, Doctorow contends.  The copyright wars, net neutrality, and SOPA (Stop Online Piracy Act) were early samples of what is to come.  Victories in those battles were temporary.  Conflict in the decades ahead will feature ever higher stakes, more convoluted issues, and far more powerful technology.  The debate is about how civilization decides to conduct itself and in whose interests.\n\n“Cory Doctorow is one of the great context-setters of our generation,” says Tim O’Reilly.  Co-editor of the acclaimed blog “Boing Boing,” Doctorow writes contemporary science fiction blending contextual insight with journalistic depth.  His recent books include  For the Win;  Makers; and  Little Brother.\n\nLong Now and the Electronic Frontier Foundation bring Cory Doctorow to San Francisco for a glimpse into the future of computing and the increasing fight for control over our freedom both online and offline.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120731-doctorow-podcast.mp3"
+},
+"duration":
+"PT88M30S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Cory Doctorow: The Coming Century of War Against Your Computer"
+}

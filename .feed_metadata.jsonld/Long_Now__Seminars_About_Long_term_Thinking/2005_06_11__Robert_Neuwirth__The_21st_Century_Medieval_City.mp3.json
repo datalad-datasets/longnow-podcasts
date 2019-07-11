@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"9578496",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-06-11T02:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050610-neuwirth-podcast.mp3"
+},
+"duration":
+"PT79M48S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Robert Neuwirth: The 21st Century Medieval City"
+}

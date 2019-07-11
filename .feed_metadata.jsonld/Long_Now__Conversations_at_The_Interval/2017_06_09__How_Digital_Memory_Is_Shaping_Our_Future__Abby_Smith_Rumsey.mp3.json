@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"66305442",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-06-09T04:40:00",
+"description":
+"Memory is not about the past, it is about the future. Historian and media expert Abby Smith Rumsey explores how digital memory, which cannot be preserved, will shape the future of knowledge and affect our survival. From March 02016.\nAbby Smith Rumsey is a historian who writes about how ideas and information technologies shape perceptions of history, of time, and of personal and cultural identity. She served as director of the Scholarly Communication Institute at the University of Virginia, and worked for more than a decade at the Library of Congress. Her book When We Are No More, How Digital Memory Is Shaping Our Future (02016) looks at how human memory from pre-history to the present has shed light on the grand challenge facing our world--the abundance of information and scarcity of human attention.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160329-rumsey-podcast.mp3"
+},
+"duration":
+"PT62M31S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"How Digital Memory Is Shaping Our Future: Abby Smith Rumsey"
+}

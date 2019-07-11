@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"84495848",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-01-23T03:30:00",
+"description":
+"Civilization’s health hangs on how we manage food, water, energy, and climate.  Two conflicting visions dominate how we think about them.  Each vision had an original creator and exemplar—the “prophet” William Vogt, author of Road to Survival, and the “wizard” Norman Borlaug, mastermind of The Green Revolution in agriculture.  The prophet says to repent and cut back on everything; the wizard says that clever enough innovation can always find a way forward.\n\nExamine both visionaries and their visions closely, and a way to proceed emerges that combines alert caution with bold invention.\n\nCharles C. Mann is the author of the 2006 book 1491, about the Americas before Columbus, and the 2012 book 1493, about the Americas after Columbus.  His previous SALT talk, in April 2012, was about “the Homogenocene.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180122-mann-podcast.mp3"
+},
+"duration":
+"PT87M46S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Charles C. Mann: The Wizard and the Prophet"
+}

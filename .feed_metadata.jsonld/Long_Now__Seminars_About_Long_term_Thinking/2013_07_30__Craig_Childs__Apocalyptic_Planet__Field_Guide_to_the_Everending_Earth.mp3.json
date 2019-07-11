@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"91784054",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-07-30T02:30:00",
+"description":
+"Our planet gets up to no end of apocalyptic-like tricks over time---periods when it is nearly all ice, all melting ice, all desert, all sea water, all molten lava, and civilizations come and go, sometimes for geological or climate reasons.  The planet has samples of all of those conditions that can be visited right now, but no one in their right mind goes there.\n\nCraig Childs goes there.  One of the world’s great intrepid travelers and story-tellers, he finds the places on Earth that are most geologically or climatically dangerous and hangs out, observing closely, giving personal as well as scientific perspective.  Through him, we experience “a field guide to the everending Earth.”",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130729-childs-podcast.mp3"
+},
+"duration":
+"PT95M33S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Craig Childs: Apocalyptic Planet: Field Guide to the Everending Earth"
+}

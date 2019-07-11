@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"41307575",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-12-15T03:30:00",
+"description":
+"Art is humanity's long-term unconscious memory.&nbsp; Artists work by creative misuse, and thanks to the Internet there have never been so many tools for so many artists (and multitudes who don't know they're artists) to creatively misuse.&nbsp; Take a cruise through how strange and meaningful it is getting with the authors of At the Edge of Art  .",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020071214-blais-ippolito-podcast.mp3"
+},
+"duration":
+"PT86M03S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Joline Blais, Jon Ippolito: At the Edge of Art"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"51277391",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-12-20T03:30:00",
+"description":
+"Rick Prelinger is a guerrilla archivist who collects the uncollected and makes it accessible. Prelinger will be presenting his third annual \"Lost Landscapes of San Francisco\" event, an eclectic montage of lost and rarely-seen film clips showing life, landscapes and labor in a vanished San Francisco as captured by amateurs, newsreel cameramen and industrial filmmakers.\nHow we remember and record the past reveals much about how we address the future. Prelinger will preface the film with a brief talk on how fragmentary, incomplete histories are being overtaken by pervasive real-time documentation, and how history, memory and property are combining into a new matrix of experience.\nSince 01983 Rick has been collecting ephemeral films: advertising, educational, industrial, and amateur works. In 02002, the Prelinger film collection of over 200,000 items was acquired by the Library of Congress; much of it is available online at the Internet Archive. In 02004 Prelinger and spouse Megan opened the Prelinger Library in downtown San Francisco, which includes over 50,000 pieces of print ephemera, books, periodicals, maps and zines.\nWe encourage the audience to interact with the film, especially to identify mystery scenes!",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020081219-prelinger-podcast.mp3"
+},
+"duration":
+"PT70M00S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rick Prelinger: Lost Landscapes of San Francisco"
+}

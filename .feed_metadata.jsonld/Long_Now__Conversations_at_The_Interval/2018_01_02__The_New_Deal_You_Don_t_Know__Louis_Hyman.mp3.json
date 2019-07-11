@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"61802477",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-01-02T05:39:27",
+"description":
+"Historian of capitalism and author of “Borrow: The American Way of Debt” discussed deep economic history and a forgotten chapter of the New Deal era:  how capitalism itself stalled in the Great Depression; and what government, allied with entrepreneurs, did to jump-start capitalism. The question is: could it happen again today?  From January 02016.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160126-hyman-podcast.mp3"
+},
+"duration":
+"PT61M13S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The New Deal You Don't Know: Louis Hyman"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"72548378",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-08-21T02:30:00",
+"description":
+"Revelations about the Book of Revelation\n\nProbably the most consequential vision of the future ever written is the Bible’s Book of Revelation.  If God didn’t write it (through the sainted instrument of someone named John), then who did, and why?\n\nElaine Pagels has a persuasive answer, spectacularly illustrated.  The author of The Gnostic Gospels; Beyond Belief; and Revelations: Visions, Prophecy, and Politics in the Book of Revelation, Pagels analyzes other revelations of the time (they were common) and examines how John’s particular version of apocalypse made it into the world’s most popular book.  John had his own agenda.  It wasn’t Christian.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120820-pagels-podcast.mp3"
+},
+"duration":
+"PT75M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Elaine Pagels: The Truth About the Book of Revelations"
+}

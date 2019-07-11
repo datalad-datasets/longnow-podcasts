@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"170263599",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-02-18T03:30:00",
+"description":
+"The main arguments against geo-engineering (direct climate intervention) to stop global warming are: 1) It  would be a massive, irreversible, risky bet; 2) everyone has to agree to it, which they won’t; 3) the unexpected side effects might be horrific; 4) once committed to, it could never be stopped.\n \nWhat if none of those need be true? \n \nHarvard climate expert David Keith has a practical proposal for an incremental, low-cost, easily reversible program of research and eventual deployment that builds on local research and is designed from the beginning for eventual shutdown.  All it attempts is to reduce the rate of global warming to a manageable pace while the permanent solutions for excess greenhouse gases are worked out.  Global rainfall would not be affected.  The system is based on transparency and patience—each stage building adaptively only on the proven success of prior stages, deployed only as needed, and then phased out the same way.\n\nOne of Time magazine’s “Heroes for the Environment,“ David Keith is a Professor of Applied Physics in Harvard’s School of Engineering and Applied Sciences and Professor of Public Policy in the Harvard Kennedy School.  He is also executive chairman of the Calgary-based company, Carbon Engineering, which is developing air capture of carbon dioxide.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150217-keith-podcast.mp3"
+},
+"duration":
+"PT88M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"David Keith: Patient Geoengineering"
+}

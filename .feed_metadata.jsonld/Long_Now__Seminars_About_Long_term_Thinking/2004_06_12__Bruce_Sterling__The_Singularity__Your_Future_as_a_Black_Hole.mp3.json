@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"11513728",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-06-12T02:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040611-sterling-podcast.mp3"
+},
+"duration":
+"PT97M25S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Bruce Sterling: The Singularity: Your Future as a Black Hole"
+}

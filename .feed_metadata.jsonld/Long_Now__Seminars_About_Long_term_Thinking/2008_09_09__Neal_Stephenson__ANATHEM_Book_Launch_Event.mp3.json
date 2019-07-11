@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"9437542",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-09-09T07:00:00",
+"description":
+"At an event hosted by the Long Now Foundation, science fiction author Neal Stephenson reads from his latest novel Anathem.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080909-stephenson-podcast.mp3"
+},
+"duration":
+"PT19M35S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Neal Stephenson: ANATHEM Book Launch Event"
+}

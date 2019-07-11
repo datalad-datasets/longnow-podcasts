@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"57113552",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-09-01T18:42:17",
+"description":
+"A conceptual artist and experimental philosopher, Jonathon Keats' work has included personalizing the metric system, copyrighting his own mind, applying general relativity to time management, and attempting to genetically engineer God. Recently he opened the shutter on his first millennium-long photograph. Co-sponsored by The ZERO1 Art & Technology Network. From April 02015.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020150407-keats-podcast.mp3"
+},
+"duration":
+"PT57M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Envisioning Deep Time: Jonathon Keats"
+}

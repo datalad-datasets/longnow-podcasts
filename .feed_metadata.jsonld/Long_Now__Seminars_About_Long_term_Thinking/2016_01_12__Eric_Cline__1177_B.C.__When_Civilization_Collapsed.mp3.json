@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"168749837",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-01-12T03:30:00",
+"description":
+"Consider this, optimists.  All the societies in the world can collapse simultaneously.  It has happened before.\n\nIn the 12th century BCE the great Bronze Age civilizations of the Mediterranean—all of them—suddenly fell apart.  Their empires evaporated, their cities emptied out, their technologies disappeared, and famine ruled.  Mycenae, Minos, Assyria, Hittites, Canaan, Cyprus—all gone.  Even Egypt fell into a steep decline.  The Bronze Age was over.\n\nThe event should live in history as one of the great cautionary tales, but it hasn’t because its causes were considered a mystery.  How can we know what to be cautious of?  Eric Cline has taken on on the mystery.  An archaeologist-historian at George Washington University, he is the author of 1177 B.C.: The Year Civilization Collapsed.  The failure, he suggests, was systemic.  The highly complex, richly interconnected system of the world tipped all at once into chaos.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160111-cline-podcast.mp3"
+},
+"duration":
+"PT87M48S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Eric Cline: 1177 B.C.: When Civilization Collapsed"
+}

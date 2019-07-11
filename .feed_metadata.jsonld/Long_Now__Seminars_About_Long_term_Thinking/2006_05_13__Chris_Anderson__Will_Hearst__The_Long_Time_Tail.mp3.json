@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"15982720",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-05-13T02:30:00",
+"description":
+"A new economic principle is the \"the long tail,\" discovered and named by the editor of Wired magazine, Chris Anderson.  The former dominance of best-sellers has been augmented by the new dominance of innumerable tiny-sellers, thanks to the Internet.  Investor and publisher Will Hearst notes that there is a time dimension as well to the long tail phenomenon, still being discovered.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020060512-anderson-hearst-podcast.mp3"
+},
+"duration":
+"PT89M11S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Chris Anderson, Will Hearst: The Long Time Tail"
+}

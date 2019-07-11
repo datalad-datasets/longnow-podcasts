@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"74446061",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-08-14T02:30:00",
+"description":
+"Daniel Kahneman is the world’s most influential psychologist because he has, based on empirical research, figured out how we can notice when we are not thinking rationally.  That knowledge gives us the choice to think “slow”---ignore brisk intuition and notional risks---when we decide we really need to get something right.\n\nHis book, Thinking, Fast and Slow, is an international best-seller in part because the reader (or listener of his lecture) is invited to make cognitive experiments while reading (or listening).  You catch your mind in the act of opting for illusion.  To engage Kahneman’s work is to experience a delightful carnival ride of one “Busted!” after another.  Your own brain becomes a co-instructor in how to use it better.\n\nKahneman received the Nobel Prize in Economic Sciences in 02002 for his work (with Amos Tversky) in “prospect theory” that founded the new discipline of behavioral economics.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130813-kahneman-podcast.mp3"
+},
+"duration":
+"PT77M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Daniel Kahneman: Thinking Fast and Slow"
+}

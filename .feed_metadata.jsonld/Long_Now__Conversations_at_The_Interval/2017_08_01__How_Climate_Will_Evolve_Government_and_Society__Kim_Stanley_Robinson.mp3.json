@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"60929439",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-08-01T07:00:00",
+"description":
+"Humanity’s adaptation to climate change will require novel, global cooperation and societal evolution. The award-winning science fiction author of 2312, the Mars Trilogy, and Aurora shares his vision for how the world must change in advance of his 02017 novel New York 2140. Hosted by Stewart Brand. From May 02016.\n\nKim Stanley Robinson is an American novelist, widely recognized as one of the foremost living writers of science fiction. His work has been described as \"humanist science fiction\" and \"literary science fiction.\" He has published more than 20 novels including his much honored \"Mars trilogy\",  New York 2140  (02017), and Red Moon due out in October 02018. Robinson has a B.A. in Literature from UC San Diego and an M.A. in English from Boston University. He earned a Ph.D. in literature from UCSD with a dissertation on the works of Philip K. Dick.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160510-robinson-podcast.mp3"
+},
+"duration":
+"PT62M53S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"How Climate Will Evolve Government and Society: Kim Stanley Robinson"
+}

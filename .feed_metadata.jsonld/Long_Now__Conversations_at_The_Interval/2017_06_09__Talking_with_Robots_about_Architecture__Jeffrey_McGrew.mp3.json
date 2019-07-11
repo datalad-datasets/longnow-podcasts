@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"61491081",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-06-09T04:55:00",
+"description":
+"The co-founder of Because We Can, the architecture/design firm that designed The Interval at Long Now, discusses the future of building: automation, communication, and whether \"robots\" will change everything. An informed and realistic overview of how architects and builders use automation today and how they may use it tomorrow. From February 02015.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020150210-mcgrew-podcast.mp3"
+},
+"duration":
+"PT57M08S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Talking with Robots about Architecture: Jeffrey McGrew"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"110149443",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-05-04T02:30:00",
+"description":
+"Humans now engage the Earth at Gaian scale.  How did Earth and humans get to this state?  Given how we got here, how should we proceed?  Tim Flannery finds that the evolutionary perspective of Alfred Russell Wallace offers better guidance than the more familiar Darwinian version of evolution.\n\nAustralian biologist Tim Flannery is the renowned author of The Weather Makers, The Future Eaters, and a great ecological history of North America, The Eternal Frontier.  His book Here on Earth: A Natural History of the Planet was published in 02011.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110503-flannery-podcast.mp3"
+},
+"duration":
+"PT91M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Tim Flannery: Here on Earth"
+}

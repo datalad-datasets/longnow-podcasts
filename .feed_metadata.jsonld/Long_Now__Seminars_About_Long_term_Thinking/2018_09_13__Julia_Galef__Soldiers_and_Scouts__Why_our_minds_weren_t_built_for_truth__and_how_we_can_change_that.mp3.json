@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"89370057",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-09-13T02:30:00",
+"description":
+"An expert on rationality, judgement, and strategy, Julia Galef notes that \"our capacity for reason evolved to serve two very different purposes that are often at odds with each other.  On the one hand, reason helps us figure out what’s true; on the other hand, it also helps us defend ideas that are false-but-strategically-useful.  I’ll explore these two different modes of thought — I call them “the scout” and “the soldier” — and what determines which mode we default to.  Finally, I’ll argue that modern humans would be better off with more scout mode and less soldier mode, and I’ll share some thoughts on how to make that happen.”\n\nGalef is founder of the Update Project and hosts the podcast Rationally Speaking.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180912-galef-podcast.mp3"
+},
+"duration":
+"PT92M45S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Julia Galef: Soldiers and Scouts: Why our minds weren't built for truth, and how we can change that"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"82300411",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-07-25T02:30:00",
+"description":
+"Where will unambiguous signs of life most likely be found outside Earth?  While telescopes squint at impossibly distant (but numerous) exoplanets, increasing numbers of increasingly brilliant robots are probing the wildly exotic potential environments for life nearby in our own Solar System.  Which ones are the most promising candidates, and why, and what are the plans to check them out?\n \nIs life in the universe a one-off freak, or the norm?  If we find just one more instance, we can infer it’s the norm.\n \nPlanetary scientist Carolyn Porco became most famous as the dynamic leader of the Imaging Team for the Cassini mission to Saturn, which delivered no end of stunning photos of the planet, its gorgeous rings, and its extravagant moons.  (Her team discovered seven new ones.)",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170724-porco-podcast.mp3"
+},
+"duration":
+"PT85M29S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Carolyn Porco: Searching for Life in the Solar System"
+}

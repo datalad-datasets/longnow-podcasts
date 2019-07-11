@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86241259",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-06-19T02:30:00",
+"description":
+"Are humans smarter than dinosaurs?  We haven’t proved it yet.\n\nIn the long now, the greatest threat to life on Earth, or (more frequently) to civilization, or (still more frequently) to cities, is asteroid impact.  The technology exists to eliminate the threat permanently. It is relatively easy and relatively cheap to do. However to date, government organizations have not made this a priority. That leaves nonprofits and private funding.  Considerable efficiency may be gained by going that route.\n\nEd Lu is CEO and Chairman of the B612 Foundation, which, in partnership with Ball Aerospace is building an asteroid-detection system called Sentinel, aiming for launch in 2018.  A three time NASA astronaut, Lu is also the co-inventor of the “gravity tractor” -- one of the several techniques that can be used to nudge threatening asteroids out their collision paths with Earth.\n\nAsteroid threat is an attention-span problem blended with a delayed-gratification problem---exactly the kind of thing that Long Now was set up to help with. Taking the extreme danger of asteroids seriously requires thinking at century and millennium scale.  Dealing with the threat requires programs that span decades, because asteroids can only be deflected if they are found and dealt with many years before their potential impact.  The reality is that the predictability of orbital mechanics makes cosmic planetary defense completely workable. Sometimes real science is more amazing than science fiction.\n\nOn February 15th of this year, civilization got a wake-up call. A 45 meter asteroid, large enough to completely obliterate a major city, missed Earth by only 17,000 miles, and hours later a smaller rock, 17 meters in diameter, exploded in the air over Chelyabinsk, Russia, injuring 1500 people. Interest in B612’s asteroid detection mission spiked accordingly.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130618-lu-podcast.mp3"
+},
+"duration":
+"PT89M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ed Lu: Anthropocene Astronomy: Thwarting Dangerous Asteroids Begins with Finding Them"
+}

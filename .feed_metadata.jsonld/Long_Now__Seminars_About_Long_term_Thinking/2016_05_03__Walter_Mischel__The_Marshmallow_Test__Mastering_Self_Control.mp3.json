@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"166936767",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-05-03T02:30:00",
+"description":
+"Can you pass the marshmallow test?  You’re a little kid.  A marshmallow is placed on the table in front of you.  You’re told you can eat it any time, but if you wait a little while, you’ll be given two marshmallows to eat.\n\nThe kids who have the self-control to pass this most famous of psychological tests turn out to have more rewarding and productive lives.  Walter Mischel, who first ran the test in the 1960s, spent the rest of his career exploring how self-control works, summarized in his 2014 book The Marshmallow Test: Mastering Self-Control.  “The ability to delay gratification and resist temptation has been a fundamental challenge since the dawn of civilization,” he writes.  “It is the ‘master aptitude’ underlying emotional intelligence, essential for constructing a fulfilling life.”\n\nThis talk spells out the remarkable things have has been learned about willpower and self-control in the individual.  It also considers wider implications.  Does it make a difference when an organization or society has more people able to fully engage self-control?  Does it make a difference when that kind of behavior is publicly expected and trained for explicitly?  Is there a social or political or cultural level of surmounting marshmallow-test temptations?  That might be the essence of long-term behavior.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160502-mischel-podcast.mp3"
+},
+"duration":
+"PT86M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Walter Mischel: The Marshmallow Test: Mastering Self-Control"
+}

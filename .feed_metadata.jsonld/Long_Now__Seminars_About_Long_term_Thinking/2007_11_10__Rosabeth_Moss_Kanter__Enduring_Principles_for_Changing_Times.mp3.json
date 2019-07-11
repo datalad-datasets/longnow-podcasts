@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"38871040",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-11-10T03:30:00",
+"description":
+"Principles are fundamental and moral, and they abide.  Professor Kanter from the Harvard Business School, author of renowned leadership and strategy books such as The Change Masters and When Giants Learn to Dance, has a new book titled America the Principled.  In it and in this talk, she \"offers a positive agenda for the nation, focussed on innovation and education, a new workplace social contract, values-based corporate conduct, competent government, positive international relations through citizen diplomacy and business networks, and national and community service.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020071109-kanter-podcast.mp3"
+},
+"duration":
+"PT80M58S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rosabeth Moss Kanter: Enduring Principles for Changing Times"
+}

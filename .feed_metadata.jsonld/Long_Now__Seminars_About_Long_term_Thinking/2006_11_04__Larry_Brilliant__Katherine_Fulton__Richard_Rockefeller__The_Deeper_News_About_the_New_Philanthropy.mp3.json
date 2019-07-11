@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"19111936",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-11-04T03:30:00",
+"description":
+"New money, new ideas, whole new kinds of programs, and growing global impact characterize the transformations going on in philanthropy these days. Katherine Fulton, president of the Monitor Institute, is behind the scenes in all of it.  She is joined on the stage by a fifth-generation Rockefeller and the head of newest philanthropic enterprise, Google.org.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020061103-brilliant-fulton-rockefeller-podcast.mp3"
+},
+"duration":
+"PT74M22S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Larry Brilliant, Katherine Fulton, Richard Rockefeller: The Deeper News About the New Philanthropy"
+}

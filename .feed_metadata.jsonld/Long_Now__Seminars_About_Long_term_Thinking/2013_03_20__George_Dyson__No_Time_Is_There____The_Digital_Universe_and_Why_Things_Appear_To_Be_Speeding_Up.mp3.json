@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"87774322",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-03-20T02:30:00",
+"description":
+"When thinking about the future, it is easy to forget to look behind you. Enter George Dyson, “a historian among futurists”, who does deep research into the history of computing to understand the trends that will bring us into the future. \n\nOne of his persistent themes is taking the “digital universe” metaphor seriously. When we turned on the first computers, we created a computational universe, a universe that is now growing by 5 trillion bits of storage per second. This universe is not merely expanding--it is exploding, and we need to understand computer time as well as we understand human time.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130319-dyson-podcast.mp3"
+},
+"duration":
+"PT91M23S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"George Dyson: No Time Is There--- The Digital Universe and Why Things Appear To Be Speeding Up"
+}

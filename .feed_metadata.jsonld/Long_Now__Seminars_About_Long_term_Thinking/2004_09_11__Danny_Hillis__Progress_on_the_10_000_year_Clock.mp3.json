@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"14552568",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-09-11T02:30:00",
+"description":
+"Danny Hillis is the next speaker in the Seminars About Long-term Thinking series, Friday, September 10, 7pm, at the Fort Mason Conference Center in San Francisco.  His topic is \"Progress on the 10,000-year Clock.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040910-hillis-podcast.mp3"
+},
+"duration":
+"PT66M50S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Danny Hillis: Progress on the 10,000-year Clock"
+}

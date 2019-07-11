@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"73486514",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-09-18T02:30:00",
+"description":
+"There is an appalling distance between here and the countless planets we’re discovering around stars other than our Sun.  At first glance we can never span those light years.  At second glance however...\n\n“The 100-year Starship” is the name of now-culminating project that mustered a handful of scientists and science fiction writers to contemplate how humanity might, over the coming century, realistically develop the ability to escape our Solar System and travel the light years to others.\n\nParticipants included scientists such as Freeman Dyson and Martin Rees and writers such as Gregory Benford and Neal Stephenson.  The professional futurist in the group was Peter Schwartz, who contributed scenarios playing out four futures of starship ambitions.  To his surprise, exploring the scenarios suggested that getting effective star travel over the coming century or two is not a long shot.  Even by widely divergent paths, it looks like a near certainty.\n\nSchwartz’s SALT talk will report on the exciting work by the 19 participants and spell out the logics of his scenarios.  The new book from the project, Starship Century: Toward the Grandest Horizon, will be available at the event.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130917-schwartz-podcast.mp3"
+},
+"duration":
+"PT76M30S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Peter Schwartz: The Starships ARE Coming"
+}

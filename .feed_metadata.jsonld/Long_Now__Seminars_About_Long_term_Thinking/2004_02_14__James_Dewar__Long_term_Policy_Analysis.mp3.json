@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"8519808",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-02-14T03:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040213-dewar-podcast.mp3"
+},
+"duration":
+"PT69M08S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"James Dewar: Long-term Policy Analysis"
+}

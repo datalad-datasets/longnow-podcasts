@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"29168064",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-02-26T03:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050225-kennedy-podcast.mp3"
+},
+"duration":
+"PT84M38S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Roger Kennedy: The Political History of North America from 25,000 BC to 12,000 AD"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"34873344",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-06-29T02:30:00",
+"description":
+"Frank Fukuyama's 1992 book The End of History and the Last Man had profound and lasting impact with its declaration that science and technology, the growing global economy, and liberal democracy are leading history in a quite different direction than Marx and Hegel imagined.  In this revisit to those themes, Fukuyama examines conflict with and within Islam, the need for a diffuse form of global governance to deal with problems like climate change, and the deeper implications of biotechnology.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070628-fukuyama-podcast.mp3"
+},
+"duration":
+"PT72M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Francis Fukuyama: 'The End of History' Revisited"
+}

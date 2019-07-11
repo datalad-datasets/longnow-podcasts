@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"87222771",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-06-05T02:30:00",
+"description":
+"David Byrne has become a scholar and promoter of new good ideas that work in the world.  \n\nHe finds them in health, education, culture, economics, climate, science & technology, transportation, and civic engagement. He has great examples and great slides--as you might expect from an acclaimed visual as well as musical artist. His goal is to spread the word that there are a LOT of new things that work surprisingly well, and they can be applied far and wide.\n\nHe has also delved into history for “sleeping beauties”—brilliant ideas that got overlooked or forgotten but can be revived. He’s interested in how that rediscovery process works and can be made better.\n\nNow 67, David Byrne’s prolific artistic career has earned honors including the Rock and Roll Hall of Fame, and Grammy, Golden Globe, and Academy Awards.  Most famed for his new-wave band “Talking Heads” (1975-1991), Byrne continues to perform on the road and has made numerous films, books, and graphic art works. He frequently collaborates with Long Now board member Brian Eno.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190604-byrne-podcast.mp3"
+},
+"duration":
+"PT90M26S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"David Byrne: Good News & Sleeping Beauties"
+}

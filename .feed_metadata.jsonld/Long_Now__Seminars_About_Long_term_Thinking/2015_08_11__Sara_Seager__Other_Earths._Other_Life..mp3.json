@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"156916472",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-08-11T02:30:00",
+"description":
+"We are one tool away from learning which distant planets already have life on them and which might be \nwelcoming to life.\n\nMIT Planetary Scientist Sara Seager is working on the tool.  She is chair of the NASA team developing a “Starshade” that would allow a relatively rudimentary space telescope to observe Earth-size planets directly, which would yield atmospheric analysis, which would determine a planet’s life-worthiness.  \n\nDespite 1,000-plus exoplanet discoveries by the Kepler spacecraft and the hundreds more expected from the Transiting Exoplanet Survey Satellite after 2017, neither instrument can make detailed observation of the atmosphere of small rocky planets, because each star’s brilliance overwhelms direct study of the rocky motes that might harbor life.  A Starshade cures that.\n\nA former MacArthur Fellow, Seager is author of Exoplanet Atmospheres (02010) and an astrophysics professor at MIT.  Her maxim: “For exoplanets, anything is possible under the laws of physics and chemistry.”\n\nPhoto by Justin Knight.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150810-seager-podcast.mp3"
+},
+"duration":
+"PT81M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Sara Seager: Other Earths. Other Life."
+}

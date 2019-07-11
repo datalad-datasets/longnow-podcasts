@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"63544942",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-03-26T23:28:20",
+"description":
+"Throughout human history, mapping has been the key to the opening of new frontiers. Mapping of previously uncharted regions has enabled economic expansion and the development of new markets, science, and defense. For similar reasons, mapping the locations and trajectories of the millions of uncharted asteroids in our solar system is the key to opening the space frontier. This four-dimensional space map will be crucial to the economic development of space, the protection of the Earth from asteroid impacts, and to understanding the origin and evolution of Earth. Join Dr. Ed Lu, former NASA astronaut, co-founder of B612 Foundation  and the current Executive Director of the Asteroid Institute as he makes the case for the need to chart the high frontier of space and learn how you can help.\n\nDr. Ed Lu, Executive Director of the Asteroid Institute, served as a NASA Astronaut for twelve years. He flew aboard the Space Shuttle twice, flew on the Russian Soyuz to the International Space Station and has logged over 206 days in space. Dr. Lu has been an active research scientist working in the fields of solar physics, astrophysics, plasma physics, cosmology, and planetary science. He held positions at the High Altitude Observatory, the Joint Institute for Laboratory Astrophysics, and the Institute for Astronomy.  At Google, he led the Advanced Projects group which built imaging and data gathering systems for Google Earth and Maps, Google StreetView, and Google Books. He is a  co-founder of B612 Foundation, the only organization in the world dedicated to finding, mapping and deflecting asteroids.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190319-lu-podcast.mp3"
+},
+"duration":
+"PT65M49S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Charting the High Frontier of Space: Ed Lu"
+}

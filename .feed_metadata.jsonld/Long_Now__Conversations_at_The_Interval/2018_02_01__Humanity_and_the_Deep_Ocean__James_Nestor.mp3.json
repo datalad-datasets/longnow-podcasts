@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"55707819",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-02-01T08:00:00",
+"description":
+"James Nestor takes us into the ocean's depths with freedivers who go death-defyingly hundreds of feet below the surface without scuba gear. In researching it Nestor found there's much more to freediving than a thrillseeker's pastime. He details compelling insights about not only the ocean and its creatures, but about our own human senses and biology whic await us in the Deep. From October 02014.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020141007-nestor-podcast.mp3"
+},
+"duration":
+"PT56M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Humanity and the Deep Ocean: James Nestor"
+}

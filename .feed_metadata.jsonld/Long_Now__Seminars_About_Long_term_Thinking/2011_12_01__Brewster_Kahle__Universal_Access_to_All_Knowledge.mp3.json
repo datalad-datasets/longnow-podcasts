@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"45496597",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-12-01T03:30:00",
+"description":
+"As founder and librarian of the storied Internet Archive (deemed impossible by all when he started it in 1996), Brewster Kahle has practical experience behind his universalist vision of access to every bit of knowledge ever created, for all time, ever improving.\n\nHe will speak to questions such as these:\n\nCan we make a distributed web of books that supports vending and lending?  How can our machines learn by reading these materials?  Can we reconfigure the information to make interactive question answering machines?   Can we learn from past human translations of documents to seed an automatic version?   And, can we learn how to do optical character recognition by having billions of correct examples?   What compensation systems will best serve creators and networked users? How do we preserve petabytes of changing data?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020111130-kahle-podcast.mp3"
+},
+"duration":
+"PT94M42S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Brewster Kahle: Universal Access to All Knowledge"
+}

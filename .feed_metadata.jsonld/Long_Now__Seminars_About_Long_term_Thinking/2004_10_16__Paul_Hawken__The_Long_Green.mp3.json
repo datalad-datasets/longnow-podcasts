@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"14268544",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-10-16T02:30:00",
+"description":
+"Paul Hawken, ur-environmentalist, is the next speaker in the series of Seminars About Long-term Thinking, Friday, October 15, 7 pm, at the Fort Mason Conference Center in San Francisco.  His subject is \"The Long Green.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020041015-hawken-podcast.mp3"
+},
+"duration":
+"PT79M15S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Hawken: The Long Green"
+}

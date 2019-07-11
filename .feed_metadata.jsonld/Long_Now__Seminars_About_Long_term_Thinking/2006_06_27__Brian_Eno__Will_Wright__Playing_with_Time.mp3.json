@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"12001408",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-06-27T02:30:00",
+"description":
+"Will Wright, creator of the video games \"Sim City,\" \"The Sims,\" and the forthcoming \"Spore,\" will speak on playing with time.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020060626-eno-wright-podcast.mp3"
+},
+"duration":
+"PT100M00S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Brian Eno, Will Wright: Playing with Time"
+}

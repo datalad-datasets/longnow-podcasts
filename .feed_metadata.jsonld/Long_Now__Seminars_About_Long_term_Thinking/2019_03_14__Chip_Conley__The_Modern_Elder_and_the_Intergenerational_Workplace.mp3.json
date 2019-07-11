@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"81116955",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-03-14T02:30:00",
+"description":
+"What can fifty-somethings bring of value to companies that are mostly twenty-somethings, and vice versa? A needed blending of depth with currency.  \n\nChip Conley, a long-time hotelier (Joie de Vivre Hospitality) and author (Peak; The Rebel Rules; Emotional Equations), was hired at 52 by the drastically youthful, disruptive startup Airbnb to be its Head of Global Hospitality and Strategy. He found he was simultaneously an intern learning the digital ropes and a seasoned veteran mentoring the company’s leadership. Expanding beyond the traditional Silicon Valley role of “executive whisperer,” Conley led the company’s focus on its countless hosts worldwide. \n\nHis new book, Wisdom @ Work: The Making of a Modern Elder, makes the case for intergenerational savvy in organizations and explores what it takes to become a useful elder these days. A jolt of rejuvenation comes with the job.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190313-conley-podcast.mp3"
+},
+"duration":
+"PT84M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Chip Conley: The Modern Elder and the Intergenerational Workplace"
+}

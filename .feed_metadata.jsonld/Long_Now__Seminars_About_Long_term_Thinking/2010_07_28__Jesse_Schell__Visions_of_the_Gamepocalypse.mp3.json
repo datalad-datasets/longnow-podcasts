@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"52795836",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-07-28T02:30:00",
+"description":
+"Games perpetually revolutionize computer use toward denser interaction with the human mind.  To do that, they perpetually revolutionize themselves.  Understanding the next frontiers of the genre is one way to understand where society is going.\nIn this talk Jesse Schell explores the social, cognitive, and technological trends in computer game design and use.\nJesse Schell is the CEO of Schell Games, the author of the authoritative text, The Art of Game Design: A Book of Lenses, and a Professor of Entertainment Technology at Carnegie Mellon, specializing in Game Design.  At Walt Disney, he was Creative Director of the Imagineering VR Studio.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100727-schell-podcast.mp3"
+},
+"duration":
+"PT109M55S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jesse Schell: Visions of the Gamepocalypse"
+}

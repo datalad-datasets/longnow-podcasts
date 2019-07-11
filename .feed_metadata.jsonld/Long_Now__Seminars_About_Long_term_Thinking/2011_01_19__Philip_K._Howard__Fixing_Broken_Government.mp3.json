@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"45375598",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-01-19T03:30:00",
+"description":
+"Philip K. Howard is a conservative who inspires standing ovations from liberal audiences (short example here.)  He says that governance in America---from the capitol to the classroom---has achieved near-total dysfunctionality by accumulating so many layers of piecemeal legalisms that the requirements of navigating them has replaced any hope of getting actual justice or effectiveness.  Most attempts to fix the problems have made them worse.  Howard thinks they can be fixed in a way that restores core functionality.\n\nHoward is the author of Life Without Lawyers (2009) and Death of Common Sense (1994) and is the founder and chair of Common Good, a reform advocacy nonprofit.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110118-howard-podcast.mp3"
+},
+"duration":
+"PT94M27S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Philip K. Howard: Fixing Broken Government"
+}

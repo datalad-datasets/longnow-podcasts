@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"171490321",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-08-07T02:30:00",
+"description":
+"The NSA’s failures are public headlines.  Its successes are secret.  \n\nThese days America’s National Security Agency lives at the intersection of two paranoias—governmental fears of attack and citizen fears about loss of privacy.  Both paranoias were exacerbated by a pair of devastating attacks—9/11 and Edward Snowden.  The agency now has to evolve rapidly while managing its normal heavy traffic of threats and staying ahead of the ever-accelerating frontier of cyber capabilities.\n\nIn the emerging era of transparency, and in the thick of transition, what does the NSA look like from inside?\n\nThreats are daily, but governance is long term.  At the heart of handling that balance is Anne Neuberger, Special Assistant to NSA Director Michael Rogers and Director of the Commercial Solutions Center.  (Before this assignment she was Special Advisor to the Secretary of Navy; before that, in 02007, a White House Fellow.)  She is exceptionally smart, articulate, and outspoken.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140806-neuberger-podcast.mp3"
+},
+"duration":
+"PT89M17S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Anne Neuberger: Inside the NSA"
+}

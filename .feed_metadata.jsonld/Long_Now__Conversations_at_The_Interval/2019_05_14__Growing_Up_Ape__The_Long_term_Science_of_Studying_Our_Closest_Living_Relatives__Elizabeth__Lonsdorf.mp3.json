@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"62173059",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-05-14T23:14:30",
+"description":
+"Studying primates offers insight into human evolution and behavior. Primatologist Elizabeth Lonsdorf shares her ongoing work with wild chimpanzees  and gorillas: a unique long-term project that extends the seminal research  by Jane Goodall and colleagues into the 21st century. Modern humans wean years earlier than African apes, a fact that is associated with several unique behaviors of being human (involving fertility, brain development, and life span). But our understanding of weaning in apes is actually quite limited. Dr Lonsdorf uses new technology and tools to better understand chimpanzee and gorilla development, and in the process learn more about us.\n\nElizabeth V. Lonsdorf is an Associate Professor of Psychology and the Biological Foundations of Behavior Program at Franklin & Marshall College. She began studying primates as an undergraduate at Duke University where she conducted research on percussive foraging in the endangered aye-aye. She completed her Ph.D. at the Jane Goodall Institute's Center for Primate Studies at the University of Minnesota, and was founding director of the Lester E. Fisher Center for the Study and Conservation of Apes at the Lincoln Park Zoo in Chicago.\n\nShe directs Franklin & Marshall’s primate research laboratory, is a National Geographic Emerging Explorer, and serves on the board of directors for Chimp Haven and the National Chimpanzee Sanctuary. She returns annually to Gombe to maintain a research program focused on chimpanzee health and infant development in collaboration with the Jane Goodall Institute and other collaborators. She is a 02018-19 fellow at the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190430-lonsdorf-podcast.mp3"
+},
+"duration":
+"PT64M26S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Growing Up Ape: The Long-term Science of Studying Our Closest Living Relatives: Elizabeth  Lonsdorf"
+}

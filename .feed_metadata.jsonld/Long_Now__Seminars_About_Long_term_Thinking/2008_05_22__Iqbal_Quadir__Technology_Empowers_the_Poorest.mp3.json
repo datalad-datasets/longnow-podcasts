@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"36371786",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-05-22T02:30:00",
+"description":
+"Quadir is the now-legendary founder of GrameenPhone, which transformed his home country of Bangladesh in the 1990s and led the way for the cellphone revolution throughout the developing world.  Currently Quadir heads the Legatum Center for Development and Entrepreneurship at MIT and is building Emergence BioEnergy Inc., a project to develop local electricity for the rural poor, using such devices as a fuel cell that runs on anaerobic bacteria.  Linking new technology with the boundless resourcefulness of the poor drives innovation in surprising directions at surprising speed.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080521-quadir-podcast.mp3"
+},
+"duration":
+"PT75M41S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Iqbal Quadir: Technology Empowers the Poorest"
+}

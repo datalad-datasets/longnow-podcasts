@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"44509796",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-06-08T02:30:00",
+"description":
+"The frontier of biology these days is the genetics and ecology of bacteria, and the frontier of THAT is what's being learned about viruses.  \"The science of virology is still in its early, wild days,\" writes Carl Zimmer.  \"Scientists are discovering viruses faster than they can make sense of them.\"  The Earth's atmosphere is determined in large part by ocean bacteria; every day viruses kill half of them.  Every year in the oceans, viruses transfer a trillion trillion genes between host organisms.  They evolve faster than anything else, and they are a major engine of the evolution of the rest of life.  Our own bodies are made up of 10 trillion human cells, 100 trillion bacteria, and 4 trillion very busy viruses.  Some of them kill us.  Many of them help us. Some of them are us. Viral time is ancient and blindingly fast.\n\nScience journalist Carl Zimmer is the author of A Planet of Viruses; the best introduction to the subject.  His previous books include Parasite Rex and Microcosm.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110607-zimmer-podcast.mp3"
+},
+"duration":
+"PT92M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Carl Zimmer: Viral Time"
+}

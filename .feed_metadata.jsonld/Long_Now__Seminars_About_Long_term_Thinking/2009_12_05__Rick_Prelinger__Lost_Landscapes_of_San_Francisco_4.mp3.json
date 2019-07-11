@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"45901621",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-12-05T03:30:00",
+"description":
+"Rick Prelinger, a guerrilla archivist who collects the uncollected and makes it accessible, presents the fourth of his annual Lost Landscapes of San Francisco screenings. You'll see an eclectic montage of rediscovered and rarely-seen film clips showing life, landscapes, labor and leisure in a vanished San Francisco as captured by amateurs, newsreel cameramen and industrial filmmakers.\nHow we remember and record the past reveals much about how we address the future.  Prelinger will preface the screening with a brief talk on how historical memory is shifting away from mass culture towards individual expression, and what consequences will arise from the emerging massive matrix of personal records.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020091204-prelinger-podcast.mp3"
+},
+"duration":
+"PT106M45S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rick Prelinger: Lost Landscapes of San Francisco 4"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"13617152",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-03-12T03:30:00",
+"description":
+"Spencer Beebe, founder of Ecotrust, is giving the next Seminar About Long-term Thinking lecture, titled \"Very Long-term Very Large-scale Biomimicry\"---how to prosper with bio-regional economics over centuries.  Friday, March 11, 7pm, Fort Mason Conference Center, San Francisco.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050311-beebe-podcast.mp3"
+},
+"duration":
+"PT75M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Spencer Beebe: Very Long-term Very Large-scale Biomimicry"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"9266223",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-10-17T03:06:00",
+"description":
+"Long Conversation, an epic relay of one-to-one conversations among some of the Bay Area's most interesting minds,  took place over 6 hours in San Francisco on Saturday October 16, 02010.  Interpreting the Long Conversation in real time was a data visualization performance by Sosolimited; an art and technology studio out of M.I.T.\nLong Conversation was presented with a live performance of 1,000 minutes of composer Jem Finer's Longplayer.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020101016-hawken-shlain-podcast.mp3"
+},
+"duration":
+"PT19M13S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Hawken, Tiffany Shlain: Long Conversation 17 of 19"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42154155",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-02-14T03:30:00",
+"description":
+"A close student and observer of the collapse of the Soviet Union and Eastern Europe twenty years ago, engineer Dmitry Orlov finds a similar sequence of events taking shape in America. His savagely humorous presentation spells out how Russia was better prepared than the US is for the stages of collapse that begin with financial meltdown. Renewal awaits on the other side of collapse, and there are ways to hasten that process. Orlov is the author of Reinventing Collapse: Soviet Example and American Prospects (02008).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090213-orlov-podcast.mp3"
+},
+"duration":
+"PT60M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Dmitry Orlov: Social Collapse Best Practices"
+}

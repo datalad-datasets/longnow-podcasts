@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"201423004",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-08-10T02:30:00",
+"description":
+"Quantum computing is widely considered to be:\n\nThe most potentially transformative technology of this century;\nNothing but hope and hype.\n\n\nA reliable reporter who is familiar with all of the rich variety of quantum research going on and the reality of the remarkable progress in the field (along with its still-expanding potential) is quantum pioneer Seth Lloyd, professor of mechanical engineering and physics at MIT.\n\nLloyd describes himself as a mechanic of quantum computing, quantum communication, and quantum biology.  He is director of MIT’s Center for Extreme Quantum Information Theory, which is working on breakthroughs in general-purpose optimization, vastly enhanced communication, and ultra-precise measurement.  In his book Programming the Universe (2006) he proposes that the universe is a vast quantum computer that can eventually be completely understood through local-scale quantum computation.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160809-lloyd-podcast.mp3"
+},
+"duration":
+"PT104M48S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Seth Lloyd: Quantum Computer Reality"
+}

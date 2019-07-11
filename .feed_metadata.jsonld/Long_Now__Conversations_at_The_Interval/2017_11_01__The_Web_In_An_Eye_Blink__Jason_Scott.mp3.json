@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"64398689",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-11-01T18:27:16",
+"description":
+"A filmmaker, historian, and self-proclaimed rogue archivist, Jason Scott discusses his personal history of preserving the digital commons which began with rescuing his favorite BBS-era \"text files\" and continued with saving gigabytes of the first user-created homepages (i.e. GeoCities.com) which were about to be trashed by their corporate owner. Today his mission, in his role at the Internet Archive, is to save all the computer games and make them playable again inside modern web browsers. And that's where things get really weird. From February 02015.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020150224-scott-podcast.mp3"
+},
+"duration":
+"PT60M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Web In An Eye Blink: Jason Scott"
+}

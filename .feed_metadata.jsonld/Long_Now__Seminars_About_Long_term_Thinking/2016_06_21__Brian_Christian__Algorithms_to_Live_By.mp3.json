@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"174158979",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-06-21T02:30:00",
+"description":
+"It is possible to be extremely astute about how we manage difficult decisions.  With just a few mental tools we get the benefit of better outcomes along with release from agonizing about the process of deciding. \n\nMany mental tools—algorithms—developed with obligatory clarity for computers turn out to have ready application for humans facing such problems as: when to stop hunting for an apartment (or lover); how much novelty to seek; how to get rid of the right stuff; how to allot scarce time; how to consider the future; when to relax constraints; how to give chance a chance; how to recognize when you’re playing the wrong game; and how to make decisions easier for others (“computational kindness”).\n\nBrian Christian, the co-author of Algorithms to Live By: The Computer Science of Human Decisions, lives in San Francisco, deploying his degrees in philosophy, computer science, and poetry.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160620-christian-podcast.mp3"
+},
+"duration":
+"PT90M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Brian Christian: Algorithms to Live By"
+}

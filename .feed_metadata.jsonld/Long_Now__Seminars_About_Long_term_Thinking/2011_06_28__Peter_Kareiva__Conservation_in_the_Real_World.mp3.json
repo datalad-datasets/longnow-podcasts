@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"44001327",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-06-28T02:30:00",
+"description":
+"As chief scientist of one of the most highly respected conservation organizations, The Nature Conservancy, Peter Kareiva is surprisingly radical.  \"Look,\" he says, \"we're in nature.  The deal is how to work with it and how to help it work for us.  The better we are at ensuring that people get nature's benefits, the better we'll be at doing conservation.\"  Through his insistence on \"evidence-based conservation,\" he finds most ecosystems far less fragile than people think and none that can be protected as pristine, because pristine doesn't exist any more.  His focus is on working the human/nature interface for maximum benefit to both.\n\nKareiva is co-founder of the Natural Capital Project---allying with Stanford University and the World Wildlife Fund to measure the economic value of ecosystems---and co-author of the textbook, Conservation Science: Balancing the Needs of People and Nature.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110627-kareiva-podcast.mp3"
+},
+"duration":
+"PT91M40S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Peter Kareiva: Conservation in the Real World"
+}

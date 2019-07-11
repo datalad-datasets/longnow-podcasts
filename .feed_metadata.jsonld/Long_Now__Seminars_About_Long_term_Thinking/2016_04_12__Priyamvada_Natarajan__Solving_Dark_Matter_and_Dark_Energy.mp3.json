@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"176254449",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-04-12T02:30:00",
+"description":
+"No one thinks longer, or bigger, than astrophysicists.\n\n“This is the golden age of cosmology,” says Priya Natarajan, one of the world’s leading astrophysicists, because data keeps pouring in to vet even the most radical theories.  And the dominant mysteries are profound.  She observes that “The vast majority of stuff in the universe—both dark matter and dark energy, which dominate the content and fate of the universe—is unknown.“\n\nThe universe’s greatest exotica are the focus of her research—dark matter, dark energy, and black holes. She is an expert, for example, in the complex behavior and gravitational lensing of galaxy clusters, where arrays of 1,000 galaxies are 95% dark matter.  Her theory of the “direct” formation of supermassive black holes may explain the profound mystery of quasars.\n\nPriyamvada Natarajan is a professor in the Departments of Astronomy and Physics at Yale University and at the Dark Cosmology Center, Niels Bohr Institute, University of Copenhagen, Denmark.  She is an active proponent for the public understanding and study of science.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160411-natarajan-podcast.mp3"
+},
+"duration":
+"PT91M43S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Priyamvada Natarajan: Solving Dark Matter and Dark Energy"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"174534089",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-07-15T02:30:00",
+"description":
+"Since the mid-01980s Kevin Kelly has been creating, and reporting on, the digital future. His focus is the long-term trends and social consequences of technology. Kelly’s new book, THE INEVITABLE: Understanding the 12 Technological Forces That Will Shape Our Future, is a grand synthesis of his thinking on where technology is heading in the next few decades, and how we can embrace it to maximize its benefits, and minimize its harms. \n\nKevin Kelly is the founding executive editor of Wired magazine and is a founding board member of The Long Now Foundation.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160714-kelly-podcast.mp3"
+},
+"duration":
+"PT90M52S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Kevin Kelly: The Next 30 Digital Years"
+}

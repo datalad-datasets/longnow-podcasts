@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"41569871",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-08-18T02:30:00",
+"description":
+"Wayne Clough is the 12th Secretary of the Smithsonian Institution.&nbsp; In July 1998 he took the reins of the world's largest museum and research complex and has since initiated long-range planning for the Smithsonian that includes increasing its accessibility.&nbsp; Many of the 137 million objects in the Institution's collection will be digitized and made available to the public along with curatorial content produced by Smithsonian experts.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090817-clough-podcast.mp3"
+},
+"duration":
+"PT86M31S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Wayne Clough: Smithsonian Forever"
+}

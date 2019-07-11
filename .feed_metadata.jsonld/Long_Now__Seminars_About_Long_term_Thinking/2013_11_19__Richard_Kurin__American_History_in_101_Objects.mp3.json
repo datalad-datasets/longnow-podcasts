@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"78382378",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-11-19T03:30:00",
+"description":
+"Relics grip us.  They anchor stories that matter by giving a visceral sense that they really happened.  Look, here is the actual chain used on an American slave.  What ended its use?  Abraham Lincoln was tall in so many ways, and he stood even taller in his top hat---this hat right here.  He wore it.  We wear it.  The hat and the chain abide at The Smithsonian Institution to help an important story in American history retain its force.  This is what museums do.\n\nRichard Kurin, the author of a new book, The Smithsonian’s History of America in 101 Objects, is the Institution’s Under Secretary for Art, History, and Culture, responsible for most of the Institution’s many museums and for many of its research and outreach programs.\n\nIn his beautifully illustrated talk, Kurin uses treasures of The Smithsonian---some celebrated, some unknown---to tell America’s story so far.  It starts long before there was a nation here.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020131118-kurin-podcast.mp3"
+},
+"duration":
+"PT81M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Richard Kurin: American History in 101 Objects"
+}

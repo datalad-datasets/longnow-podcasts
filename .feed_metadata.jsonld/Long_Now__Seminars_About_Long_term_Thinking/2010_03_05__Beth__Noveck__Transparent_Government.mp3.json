@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"50401557",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-03-05T03:30:00",
+"description":
+"President Obama's first executive action was the Open Government Memorandum calling for more transparent, participatory, and collaborative government.  It is likely that one of the longest lasting effects of the current administration will be how much it changed the culture of Washington by opening government data and pioneering innovations in policymaking.\nAs the United States Deputy Chief Technology Officer and leader of the President's Open Government Initiative in the White House, Beth Noveck is in the forefront of the Federal government's implementation of these changes.  On leave as law professor at New York Law School and a visiting professor of communication at Stanford University, she lectures on intellectual property, innovation and technology law. She is also the Founder of the State of Play conferences.\nNoveck is the author of Wiki Government: How Technology Can Make Government Better, Democracy Stronger, and Citizens More Powerful.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100304-noveck-podcast.mp3"
+},
+"duration":
+"PT104M55S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Beth  Noveck: Transparent Government"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"168613715",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-03-15T02:30:00",
+"description":
+"Three billion people—nearly half of us--depend on rice for survival.  What if you could adjust rice genetically so 1) it has a 50% greater yield, 2) using half the water, 3) needing far less fertilizer, 4) along with higher resilience to climate change?  It would transform world agriculture.\n\nAll you need to do is switch rice from inefficient C3 photosynthesis to the kind of C4 photosynthesis employed by corn, sugarcane, and sorghum.  That switch has been made in plants 60 independent times by evolution, so we have models for how to do it.  In 02008 the International Rice Research Institute in the Philippines, funded by the Bill and Melinda Gates Foundation, set in motion a consortium of 12 labs worldwide working on developing C4 rice.\n\nOne of the major leaders of the work is Professor Jane Langdale at Oxford University’s Department of Plant Sciences.  Former Long Now speaker Charles C. Mann (who is writing about C4 rice) recommended her highly.\n\nIf C4 rice proves successful, it could lead to similar radical improvement for other inefficient crops such as wheat.  Decades of focussed research could produce centuries in which ever less land provides ever more food, leaving ever more of the planet to nature.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160314-langdale-podcast.mp3"
+},
+"duration":
+"PT87M45S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jane Langdale: Radical Ag: C4 Rice and Beyond"
+}

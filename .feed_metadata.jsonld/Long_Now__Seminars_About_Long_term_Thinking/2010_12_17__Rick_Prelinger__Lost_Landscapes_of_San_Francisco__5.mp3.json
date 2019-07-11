@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42969616",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-12-17T03:30:00",
+"description":
+"Rick Prelinger, a guerrilla archivist who collects the uncollected and makes it accessible, presents the fifth of his annual Lost Landscapes of San Francisco screenings.  You'll see an eclectic montage of rediscovered and rarely-seen film clips showing life, landscapes, labor and leisure in a vanished San Francisco as captured by amateurs, newsreel cameramen and industrial filmmakers.\n\nNew material this year will include test flights over the unbuilt dunes of the Sunset District, Prohibition-era libertines partying in Golden Gate Park and drinking in their cars, lost travelogues and scenes from San Francisco countercultures.\n\nSuzanne Ramsey, aka Kitten on the Keys, will be back to open for Rick again this year; she will regale us with vintage tunes and a vivacious style that has entertained crowds from here in San Francisco to the Cannes Film Festival.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020101216-prelinger-podcast.mp3"
+},
+"duration":
+"PT89M26S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rick Prelinger: Lost Landscapes of San Francisco, 5"
+}

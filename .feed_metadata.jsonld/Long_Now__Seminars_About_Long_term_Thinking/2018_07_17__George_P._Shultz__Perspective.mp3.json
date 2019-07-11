@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"60777923",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-07-17T01:00:00",
+"description":
+"Perspective?  No one has a longer or better-informed view of world affairs and America's role than George Shultz, now 97. (Henry Kissinger is only 95.)\n\nSecretary Shultz was a US Marine Captain in World War II. After becoming an economics professor at MIT and the University of Chicago he served the Nixon administration as Secretary of Labor, then director of the Office of Management and Budget, then Secretary of the Treasury. Back in private life by 1974, he led Bechtel Group as executive vice president and president. He was appointed by President Reagan as Secretary of State in 1982, where he helped finesse Reagan’s relationship with Gorbachev that wound down the Cold War. \n\nStill active in public policy after leaving government in 1989, Shultz has been an advocate for legalizing recreational drugs, for ending the Cuban embargo, for a world totally free of nuclear weapons, and for a revenue-neutral carbon tax.\n\nSecretary Shultz will be interviewed on stage by Peter Schwartz, currently head of strategy for Salesforce and a founding board member of Long Now, formerly the CEO of Global Business Network and author of The Art of the Long View (01991). \n\nThis SALT talk was arranged in partnership with the Asia Society of Northern California.\n\nThe Long Now Foundation and Asia Society Northern California are partnering on a series of talks in Long Now's Seminars About Long-term Thinking series. With the Asia Pacific region being vital to long term thinking for the planet, and especially for those on the Pacific coast, we believe that there is a fruitful collaboration to explore for both of our memberships and the wider public.\n\nThe Asia Society's depth of knowledge about critical issues, key leaders and cultural perspectives coming out of Asia can inform the topics, people and conversations featured in the long-running Seminar series curated and hosted by Long Now's president Stewart Brand. Public access to the recorded talks broadens the reach of this in-depth collaboration.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180716-shultz-podcast.mp3"
+},
+"duration":
+"PT63M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"George P. Shultz: Perspective"
+}

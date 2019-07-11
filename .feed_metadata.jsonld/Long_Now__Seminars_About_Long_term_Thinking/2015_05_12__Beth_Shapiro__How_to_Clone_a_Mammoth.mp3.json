@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"165653273",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-05-12T02:30:00",
+"description":
+"Beth Shapiro is far from a giddy enthusiast about de-extinction.  She knows more than nearly anyone about the subject because she is a highly regarded biologist in the middle of the two leading efforts in the new field—to resurrect extinct woolly mammoths and passenger pigeons.  She knows exactly how challenging the whole process will be and how imperfect the later stages of success might appear.\n\nAn evolutionary biologist who created and runs the paleogenomics lab at UC Santa Cruz, Shapiro is a careful skeptic, a great story teller and explainer, and an extremely productive scientist.  In this talk she spans the full de-extinction narrative from DNA editing all the way to revived populations in the wild—from lab work with CRISPR Cas 9 and primordial germ cells through to the ethical and practical issues of restoring a long-absent keystone species in its former ecosystem.  \n\n“The goal of de-extinction,” she points out, “is to restore ecosystems; to reinstate interactions between species that no longer exist because one or more of those species are extinct.  We don’t need to create exact replicas of extinct species to achieve this goal.”  She concludes, “De-extinction uses awesome, exciting, cutting-edge technology to take a giant step forward.  De-extinction is a process that allows us to actively create a future that is really better than today, not just one that is less bad than what we anticipate.”  \n\nBeth Shapiro is a MacArthur Fellow, a National Geographic Emerging Explorer, and author of the new book from Princeton University Press, How to Clone a Mammoth: The Science of De-extinction.”",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150511-shapiro-podcast.mp3"
+},
+"duration":
+"PT86M15S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Beth Shapiro: How to Clone a Mammoth"
+}

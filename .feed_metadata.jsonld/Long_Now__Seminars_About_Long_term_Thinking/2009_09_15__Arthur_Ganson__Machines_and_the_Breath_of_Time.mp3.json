@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42758965",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-09-15T02:30:00",
+"description":
+"Arthur Ganson uses humble materials to create kinetic sculptures of humor, drama, and emotion.&nbsp; His work has been shown around the world, and has been an ongoing inspiration for the 10,000 Year Clock project at Long Now.&nbsp; His machinated gestures play with time spans that range from the epochal to the momentary.\nOne of the touchstone pieces for the Clock project is the Machine with Concrete.&nbsp; The input of the piece is a 200 revolution per minute motor, and after series of gear reductions it's output gear is cast in concrete.&nbsp; Due to the multiplicative nature of the gear train it will take upwards of two trillion years to break the final gear.&nbsp; Ganson will be discussing the theme of time in his work, and will be bringing a piece to show live at the event.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090914-ganson-podcast.mp3"
+},
+"duration":
+"PT83M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Arthur Ganson: Machines and the Breath of Time"
+}

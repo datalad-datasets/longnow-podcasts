@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"156378204",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-07-17T02:30:00",
+"description":
+"Thinking about the future is so hard and so important that any trick to get some traction is a boon.  Adrian Hon’s trick is to particularize.  What thing would manifest a whole future trend the way museum objects manifest important past trends?\n\nBuilding on the pattern set by the British Museum’s great book, A History of the World in 100 Objects, Hon imagines 100 future objects that would illuminate transformative events in technology, politics, sports, justice, war, science, entertainment, religion, and exploration over  the course of this century.  The javelin that won victory for the last baseline human to compete successfully in the Paralympic Games for prosthetically enhanced athletes.  The “Contrapuntal Hack” of 02031 that massively and consequentially altered computerized records so subtly that the changes were undetected.  The empathy drug and targeted virus treatment that set off the Christian Consummation Movement.\n\nAdrian Hon is author of the new book, A History of the Future in 100 Objects, and CEO and founder of Six to Start, creators of the hugely successful smartphone fitness game “Zombies, Run!”  His background is in neuroscience at Oxford and Cambridge.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140716-hon-podcast.mp3"
+},
+"duration":
+"PT81M25S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Adrian Hon: A History of the Future in 100 Objects"
+}

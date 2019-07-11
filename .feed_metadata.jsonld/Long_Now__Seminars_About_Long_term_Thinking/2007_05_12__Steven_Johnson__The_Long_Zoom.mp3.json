@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"15513728",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-05-12T02:30:00",
+"description":
+"Nobody discovers or imparts an insight with the dexterity of Steven Johnson, author of Emergence, Everything Bad Is Good For You, and The Ghost Map.  In this talk he examines how humanity is transformed by its new scaling capability--- our ability now to examine and relate events at the nanometer and nanosecond scale and then zoom right out to a cosmic scale and time frame.  With tools like Google Earth and Will Wright's \"Spore\" game, we all are learning to zoom with comfort. How does that change us?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070511-johnson-podcast.mp3"
+},
+"duration":
+"PT86M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Steven Johnson: The Long Zoom"
+}

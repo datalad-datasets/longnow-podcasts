@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"81609177",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-04-03T02:30:00",
+"description":
+"The ocean is not just filling up, it’s swelling up.  Half of sea-level rise comes just from the warming of the water.  No matter what humans do next, we are now doomed to deal with drastically higher flooding of the world's coasts every year for decades, possibly centuries.  Nearly half of humanity lives near coasts.  Many of our greatest cities, and their infrastructure, will have to deal with the ever-rising waters.\n\nSome coasts in the world are already experiencing what is coming for every coast soon.  Jeff Goodell's reports from those places are doubly grim.  The harm is already huge, but the response of local people is even more disturbing.  With few exceptions, they and their governments refuse to accept that the problem is permanent and will keep getting worse.  Those most affected by global warming—rich and poor—remain perversely in denial about it.\n\nThere’s lots of talk, but humanity is doing almost nothing to adapt to sea level rise.  So far.\n\nJeff Goodell is author of The Water Will Come: Rising Seas, Sinking Cities, and the Remaking of the Civilized World (2017), How To Cool the Planet (2010), and Big Coal (2006).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190402-goodell-podcast.mp3"
+},
+"duration":
+"PT84M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jeff Goodell: The Water Will Come"
+}

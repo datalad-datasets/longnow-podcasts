@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"9442811",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-10-16T22:22:00",
+"description":
+"Long Conversation, an epic relay of one-to-one conversations among some of the Bay Area's most interesting minds,  took place over 6 hours in San Francisco on Saturday October 16, 02010.  Interpreting the Long Conversation in real time was a data visualization performance by Sosolimited; an art and technology studio out of M.I.T.\nLong Conversation was presented with a live performance of 1,000 minutes of composer Jem Finer's Longplayer.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020101016-finer-griffith-podcast.mp3"
+},
+"duration":
+"PT19M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jem Finer, Saul Griffith: Long Conversation 2 of 19"
+}

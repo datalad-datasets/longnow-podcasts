@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"14588032",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-10-14T02:30:00",
+"description":
+"This graphic extravaganza from mathematical physicist John Baez shows not only humanity's nested time dimensions but how we expand our time perspective to understand and solve crises. Baez's famed online column, \"This Week's Finds in Mathematical Physics,\" which began in 1993, was an influential pioneer of the blog genre.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020061013-baez-podcast.mp3"
+},
+"duration":
+"PT87M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"John Baez: Zooming Out in Time"
+}

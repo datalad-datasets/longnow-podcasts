@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"90562186",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-05-24T02:30:00",
+"description":
+"The scope of Geoffrey West’s talk is covered by the full title of his new book: Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies.  It is original, spectacular work—showing how logarithmic scaling governs everything from cells to ecosystems.  The same rules govern companies and cities, but somewhat differently from biology and from each other.\n\nGeoffrey West deploys the rigor of a theoretical physicist long at Los Alamos National Laboratory and the range of a President (2005-2009) of Santa Fe Institute, which advances the study of complex adaptive systems.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170523-west-podcast.mp3"
+},
+"duration":
+"PT94M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Geoffrey B.  West: The Universal Laws of Growth and Pace"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"111354733",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-04-21T02:30:00",
+"description":
+"Seminar and Conversation with Edward O. Wilson and Stewart Brand, with an introduction by Rob Semper, Executive Associate Director of the Exploratorium.\nPresented by The Long Now Foundation and the Exploratorium\n\nEdward O. Wilson has revolutionized science and inspired the public more often than any other living biologist.  Now he is blending his pioneer work on ants with a new perspective on human development to propose a radical reframing of how evolution works.\n\nFirst the social insects ruled, from 60 million years ago.  Then a species of social mammals took over, from 10 thousand years ago.  Both sets of “eusocial” animals mastered the supremely delicate art of encouraging altruism, so that individuals in the groups would act as if they value the goal of the group over their own goals.  They would specialize for the group and die for the group.  In recent decades the idea of “kin selection” seemed to explain how such an astonishing phenomenon could evolve.  Wilson replaces kin selection with “multi-level selection,” which incorporates both individual selection (long well understood) and group selection (long considered taboo).  Every human and every human society has to learn how to manage adroitly the perpetual ambiguity and conflict between individual needs and group needs.  What I need is never the same as what we need.\n\nE. O. Wilson’s current book is The Social Conquest of Earth.  His previous works include The Superorganism; The Future of Life; Consilience; Biophilia; Sociobiology; and The Insect Societies.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120420-wilson-podcast.mp3"
+},
+"duration":
+"PT92M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Edward O. Wilson: The Social Conquest of Earth"
+}

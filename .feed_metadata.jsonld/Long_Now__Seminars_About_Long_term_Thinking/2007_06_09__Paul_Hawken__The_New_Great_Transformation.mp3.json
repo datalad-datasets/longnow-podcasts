@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"34684928",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-06-09T02:30:00",
+"description":
+"\"I now believe there are over one million organizations working toward ecological sustainability and social justice. This is the largest social movement in all of history, no one knows its scope, and how it functions is more mysterious than what meets the eye.  What binds it together is ideas, not ideologies. The promise of this unnamed movement is to offer solutions to what appear to be insoluble dilemmas: poverty, global climate change, terrorism, ecological degradation, polarization of income, loss of culture.\" Paul Hawken is the author of Blessed Unrest and co-author of Natural Capitalism.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070608-hawken-podcast.mp3"
+},
+"duration":
+"PT71M45S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Hawken: The New Great Transformation"
+}

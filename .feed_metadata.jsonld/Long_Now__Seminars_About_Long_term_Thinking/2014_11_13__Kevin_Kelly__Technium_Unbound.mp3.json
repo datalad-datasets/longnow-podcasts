@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"168696055",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-11-13T03:30:00",
+"description":
+"What comes after the Internet? What is bigger than the web? What will produce more wealth than all the startups to date? The answer is a planetary super-organism comprised of 4 billion mobile phones, 80 quintillion transistor chips, a million miles of fiber optic cables, and 6 billion human minds all wired together. The whole thing acts like a single organism, with its own behavior and character -- but at a scale we have little experience with.\n\nThis is more than just a metaphor. Kelly takes the idea of a global super-organism seriously by describing what we know about it so far, how it is growing, where its boundaries are, and what it will mean for us as individuals and collectively. Both the smallest one-person enterprises today, and the largest mega-corporations on Earth, will have to learn to how this Technium operates, and how to exploit it.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020141112-kelly-podcast.mp3"
+},
+"duration":
+"PT87M50S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Kevin Kelly: Technium Unbound"
+}

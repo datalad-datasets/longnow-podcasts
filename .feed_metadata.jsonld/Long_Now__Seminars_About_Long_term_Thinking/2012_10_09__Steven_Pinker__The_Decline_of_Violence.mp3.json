@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"89857375",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-10-09T02:30:00",
+"description":
+"Steven Pinker changes the world twice in his new book, THE BETTER ANGELS OF OUR NATURE: Why Violence Has Declined. \n\nFirst, he presents exhaustive evidence that the tragic view of history is wrong and always has been.  A close examination of the data shows that in every millennium, century, and decade, humans have been drastically reducing violence, cruelty, and injustice---right down to the present year.  A trend that consistent is not luck; it has to be structural.\n\nSo, second, he boldly founds a discipline that might as well be called “psychohistory.”  As a Harvard psychologist and public intellectual (author of The Language Instinct and The Blank Slate), he sought causes for the phenomenon he’s reporting---why violence has declined.  Real ethical progress, he found, came from a sequence of institutions, norms, cultural practices, and mental tricks employed by whole societies to change their collective mind and behavior in a peaceful direction.\n\nHumanity’s great project of civilizing itself is far from complete, but Pinker’s survey of how far we’ve come builds confidence that the task will be completed, and he illuminates how to get there.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020121008-pinker-podcast.mp3"
+},
+"duration":
+"PT93M33S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Steven Pinker: The Decline of Violence"
+}

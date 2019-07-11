@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"11906944",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-03-13T03:30:00",
+"description":
+"The epitome of long-term thinking is to take seriously the protection of the Earth from massive asteroid impacts, which in the past have extincted as much as 90% of life on Earth.\nOn Friday, March 12, astronaut Rusty Schweickart will give a public lecture titled \"The Asteroid Threat Over the Next 100,000 Years.\"  It will detail graphically the results of his research on asteroid impact frequency and damage, along with what it will take to find and deflect future threatening asteroids.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040312-schweickart-podcast.mp3"
+},
+"duration":
+"PT91M56S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rusty Schweickart: The Asteroid Threat Over the Next 100,000 Years"
+}

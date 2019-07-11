@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"195384162",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-09-22T02:30:00",
+"description":
+"So far we are trying to deal with climate change at the wrong time scale.  A really deep problem cannot be solved by shallow innovations, no matter how clever.  The scale of climate change requires thinking and acting in multi-decade terms at the level of infrastructure—personal as well as societal.  Get it right, and “the result can be like living in a beautifully managed garden.”\n\nSaul Griffith is an inventor and meta-inventor, currently founder of Otherlabs in San Francisco (devising such things as soft robotics, soft exoskeletons, cheap solar tracking, and conformable gas tanks.)  He is a MacArthur Fellow and frequent TED dazzler.  His 02009 SALT talk on Climate Change Recalculated is the most viewed video in our twelve-year series.\n\nSee our blog for updates on tickets and other media; tickets will go on sale one month before the Seminar.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150921-griffith-podcast.mp3"
+},
+"duration":
+"PT101M43S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Saul Griffith: Infrastructure and Climate Change"
+}

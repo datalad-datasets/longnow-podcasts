@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"89099723",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-04-11T02:30:00",
+"description":
+"It’s a lot more than “Seize the day.”  We learn from the dying to push away nothing; to lose the habit of postponing things; to show up entirely; to find rest amid whatever; to go ahead and be surprised.  You can look death right in the eye, tough as it is, and life lights up.\n\nFrank Ostaseki, one of the world’s great end-of-life counselors, has attended over a thousand dyings.  He was a cofounder of the renowned Zen Hospice in San Francisco and is the author of a new book, The Five Invitations: Discovering What Death Can Teach Us About Living Fully.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170410-ostaseski-podcast.mp3"
+},
+"duration":
+"PT92M31S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Frank Ostaseski: What the Dying Teach the Living"
+}

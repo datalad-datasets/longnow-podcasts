@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"160513321",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-04-01T02:30:00",
+"description":
+"According to futurist (and Long Now board member) Paul Saffo, the \"new economy” anticipated in the late 01990s is arriving late and in utterly unexpected ways. Social media, maker culture, the proliferation of sensors, and even the 02008 market crash are merely local phenomena in a much larger shift. What unfolds in the next few years will determine the shape of the global economy for the next half-century and will force a profound rethink of economic theory.\n\nPaul Saffo teaches forecasting at Stanford and Singularity University. Journalists rely on him for cruelly telling quotes about everything from the monthly disruptions in Silicon Valley to the yearly turmoils in the global economy.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150331-saffo-podcast.mp3"
+},
+"duration":
+"PT83M34S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Saffo: The Creator Economy"
+}

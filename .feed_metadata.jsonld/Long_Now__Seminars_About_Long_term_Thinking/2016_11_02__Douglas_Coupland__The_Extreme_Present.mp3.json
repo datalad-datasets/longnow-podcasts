@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"172600006",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-11-02T02:30:00",
+"description":
+"Douglas Coupland has done so much more than name a generation (“Generation X”—post-Boomer, pre-Millennial, from his novel of that name).  He is a prolific writer (22 books, including nonfiction such as his biography of Marshall McLuhan) and a brilliant visual artist with installations at a variety of museums and public sites.  His 1995 novel Microserfs nailed the contrast between corporate and startup cultures in software and Web design.\n\nCoupland is fascinated by time.  For Long Now he plans to deploy ideas and graphics “all dealing on some level with time and how we perceive it, how we used to perceive it, and where our perception of it may be going.”  A time series about time.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020161101-coupland-podcast.mp3"
+},
+"duration":
+"PT88M05S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Douglas Coupland: The Extreme Present"
+}

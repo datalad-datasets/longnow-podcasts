@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"77335493",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-06-06T02:30:00",
+"description":
+"The problem of the unknowable future is matched by the problem of the unchangeable past.  Both are solved by the dream of time travel.  The peculiarities and paradoxes of time travel are explored in imaginative detail in science fiction, even though it doesn’t exist, or maybe especially because it doesn’t exist.  Grappling with the idea helps humans engage with a dimension of profound human powerlessness and also invites deeper thinking about what actually can be known about the past and what actually can be done about the future.\n\nJames Gleick’s meditation on time covers how time is experienced psychologically, how artists such as Borges, Proust, and Wells create with it, how religions conjure eternity, how cosmology probes forking universes, and how so much comes down to the nature of “now.”\n\nScience historian Gleick is the author of Chaos (1987), Isaac Newton (2003), The Information (2011), and Time Travel: A History (2016).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170605-gleick-podcast.mp3"
+},
+"duration":
+"PT80M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"James Gleick: Time Travel"
+}

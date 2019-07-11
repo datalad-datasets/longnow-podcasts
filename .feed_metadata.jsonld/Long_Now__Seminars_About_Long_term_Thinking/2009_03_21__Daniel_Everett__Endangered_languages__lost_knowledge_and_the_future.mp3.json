@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"43530054",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-03-21T02:30:00",
+"description":
+"The Pirah&atilde;, a remote Amazonian tribe with little outside contact, have attracted the attention of mainstream media, scientists, zen buddhists, professors of religion, mathematicians, philosophers and others because of their unusual confluence of values, language, and culture.\nNow, after 20 years of high intellectual and physical adventure living among them, Dan Everett proposes a revolution in anthropology and linguistics: culture profoundly shapes language, even at the most fundamental level.  What happens when a language-culture pairing like the Pirah&atilde;s' is lost?\nThe Pirah&atilde;s are not alone in their lessons and knowledge for all of us -- there are hundreds of endangered languages in the world -- but their example provides a remarkably clear example of alternative knowledge and ways of talking of importance to all of us as we ponder how we should try to build future lives.\nEverett is author of Don't Sleep, There Are Snakes: Life and Language in the Amazon Jungle (02008) and is Chair of Languages, Literatures, and Cultures at Illinois State University.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090320-everett-podcast.mp3"
+},
+"duration":
+"PT65M02S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Daniel Everett: Endangered languages, lost knowledge and the future"
+}

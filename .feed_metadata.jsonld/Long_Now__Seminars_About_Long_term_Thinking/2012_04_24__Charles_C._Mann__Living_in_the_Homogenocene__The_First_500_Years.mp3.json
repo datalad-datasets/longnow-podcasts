@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"95778297",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-04-24T02:30:00",
+"description":
+"Ever since Columbus, it’s an alien invasive world.  Everybody’s germs, insects, vegetables, staple foods, rats, domestic animals, and even wildlife went everywhere, changing everything.  That convulsion is still in progress.\n\nCharles C. Mann is the author of 1491: New Revelations of the Americas Before Columbus and 1493: Uncovering the New World Columbus Created.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120423-mann-podcast.mp3"
+},
+"duration":
+"PT99M44S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Charles C. Mann: Living in the Homogenocene: The First 500 Years"
+}

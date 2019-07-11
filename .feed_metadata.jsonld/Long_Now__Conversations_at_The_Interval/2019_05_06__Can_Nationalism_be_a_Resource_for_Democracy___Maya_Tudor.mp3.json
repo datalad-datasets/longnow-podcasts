@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"64503403",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-05-06T21:24:01",
+"description":
+"A political scientist examines how foundational nationalisms affect democracy globally, using countries like India and Myanmar to illustrate that some kinds of nationalism can be an essential resource for protecting democracy.\n\nMaya Tudor is a comparative political scientist whose research focuses on democracy, nationalist movements, and party competition. She is an associate professor of politics and public policy at the Blavatnik School of Government, University of Oxford. She holds a PhD in politics and public policy and an MPA in development studies from Princeton and a BA in economics from Stanford University. Previously she was Special Assistant to Chief Economist Joseph Stiglitz at the World Bank, at UNICEF, in the United States Senate, and at the Bangladesh Rural Advancement Committee. A dual citizen of Germany and the United States, she has lived and worked in Bangladesh, Germany, France, India, Kenya, Pakistan, the Philippines, the United Kingdom and the United States.\n\nDr. Tudor has held fellowships at Harvard’s Belfer Center for Science and International Affairs and Oxford’s Centre for the Study of Inequality and Democracy. She is a 02018-19 fellow at the Center for Advanced Studies in the Behavioral Sciences (CASBS) at Stanford, co-sponsors of this talk.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190416-tudor-podcast.mp3"
+},
+"duration":
+"PT66M52S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Can Nationalism be a Resource for Democracy?: Maya Tudor"
+}

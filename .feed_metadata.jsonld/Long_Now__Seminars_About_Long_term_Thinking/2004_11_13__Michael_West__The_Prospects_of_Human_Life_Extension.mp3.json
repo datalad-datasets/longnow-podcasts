@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"21132074",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-11-13T03:30:00",
+"description":
+"\"The Prospects of Human Life Extension\" is the subject of the next Seminar About Long-term Thinking, Friday, Nov. 12, 7 pm, at the Fort Mason Conference Center in San Francisco.  The speaker is Michael West, founder of Geron, founder and CEO of Advanced Cell Technology, leading researcher in age-related degenerative disease and embryonic stem cells.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020041112-west-podcast.mp3"
+},
+"duration":
+"PT84M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Michael West: The Prospects of Human Life Extension"
+}

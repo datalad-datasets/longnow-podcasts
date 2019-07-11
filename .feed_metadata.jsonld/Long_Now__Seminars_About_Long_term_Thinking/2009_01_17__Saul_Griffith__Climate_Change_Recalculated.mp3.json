@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"46528544",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-01-17T03:30:00",
+"description":
+"\"It is not accurate to say we can still stop climate change,\" says Saul Griffith, the Bay Area inventor who received a MacArthur \"genius\" award in 2007.&nbsp; \"We are now working to stop worse climate change or much-worse-than-worse climate change.\"\nGriffith has done the research and the math to figure out exactly what it will take for humanity to soften the impact of climate change in the next 25 years, and he lays it out in a dazzling presentation.&nbsp; It is horrifying news.&nbsp; The politics and technologies we have now are not up to the task.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090116-griffith-podcast.mp3"
+},
+"duration":
+"PT56M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Saul Griffith: Climate Change Recalculated"
+}

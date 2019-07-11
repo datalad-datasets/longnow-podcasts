@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"24884522",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-05-19T02:30:00",
+"description":
+"Paul Romer is best known as the lead developer of New Growth Theory, which shows how societies can speed up the discovery and implementation of new technologies; essentially, ideas about how objects interact. However, to address the big problems we&rsquo;ll face this century; insecurity, harm to the environment, and global poverty, new technologies will not be enough.   His current focus is on mechanisms that can speed up the discovery and implementation of new rules - ideas about how people interact. For his work on the economics of ideas, Paul was named one of America&rsquo;s 25 most influential people by TIME magazine.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090518-romer-podcast.mp3"
+},
+"duration":
+"PT54M21S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Romer: A Theory of History, with an Application"
+}

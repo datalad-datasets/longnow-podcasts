@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"66431897",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-06-09T04:30:00",
+"description":
+"A special daytime talk by celebrated speculative fiction author  Neal Stephenson on the occasion of his just released novel \"SEVENEVES\". After a reading, Long Now co-founder Stewart Brand joins Neal to discuss the research and writing of the new book, plus a little bit about what is coming next. From May 02015.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020150521-stephenson-podcast.mp3"
+},
+"duration":
+"PT64M34S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Seveneves at The Interval: Neal Stephenson"
+}

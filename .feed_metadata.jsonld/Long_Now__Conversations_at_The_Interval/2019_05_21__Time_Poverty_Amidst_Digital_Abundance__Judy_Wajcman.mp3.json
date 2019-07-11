@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"65763064",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-05-21T09:14:16",
+"description":
+"Technology’s promise is to “save” time. Its track record in real and psychological terms is often the opposite. A sociologist of science and technology, Judy Wajcman continues her examinations of time pressure and acceleration in the digital age.  Her latest work considers how calendar software interacts  with the existing anxieties of our digitally driven lives.\nJudy Wajcman is the Anthony Giddens Professor of Sociology at the London School of Economics. Professor Wajcman was one of the founding contributors to the field of the social study of Science and Technology, as well as to studies of gender, work and organizations. Her latest books, Pressed for Time and The Sociology of Speed, argue for a sociomaterial approach to the study of time. She was a 02017-18 fellow at the Center for Advanced Studies in the Behavioral Sciences (CASBS) at Stanford, co-sponsors of this talk.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020180327-wajcman-podcast.mp3"
+},
+"duration":
+"PT68M13S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Time Poverty Amidst Digital Abundance: Judy Wajcman"
+}

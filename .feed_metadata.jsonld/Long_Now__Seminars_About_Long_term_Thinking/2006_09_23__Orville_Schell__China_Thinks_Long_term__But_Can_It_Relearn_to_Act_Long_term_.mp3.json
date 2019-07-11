@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"16002048",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-09-23T02:30:00",
+"description":
+"Orville Schell is author of nine books about China and dean of the Graduate School of Journalism at UC Berkeley. The question facing China now is whether in practice it can live up to its sense of itself as the society with the longest and deepest continuity on earth. In a time of fabulous short-term gains, can it step up to long-term responsibility?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020060922-schell-podcast.mp3"
+},
+"duration":
+"PT88M53S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Orville Schell: China Thinks Long-term, But Can It Relearn to Act Long-term?"
+}

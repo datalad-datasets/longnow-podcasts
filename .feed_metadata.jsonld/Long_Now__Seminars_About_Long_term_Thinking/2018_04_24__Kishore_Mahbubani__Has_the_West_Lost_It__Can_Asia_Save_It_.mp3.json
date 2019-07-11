@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"87684607",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-04-24T02:30:00",
+"description":
+"In Kishore Mahbubani’s view, global power is shifting from the West to the Rest—from Europe and North America to Asia and Africa. He argues that changes will be required both in the West and the Rest to manage the shift gracefully for long-term stability.  The rest of the world has learned a great deal from the West.  Now it is the West’s turn to learn and to dispel some of its myths about the new world order.\n\nSingaporean diplomat and scholar Kishore Mahbubani served as his nation’s Ambassador to the United Nations and as President of the UN Security Council.  He is a Professor in the Practice of Public Policy at the National University of Singapore where he was Dean of the Lee Kuan Yew School of Public Policy from 2004 to 2017.  His books include Has the West Lost It?: A Provocation  (2018);  The ASEAN Miracle  (2017);  The Great Convergence  (2013); and  The New Asian Hemisphere  (2008).\n\nThe Long Now Foundation and Asia Society Northern California are partnering on a series of talks in Long Now's Seminars About Long-term Thinking series. With the Asia Pacific region being vital to long term thinking for the planet, and especially for those on the Pacific coast, we believe that there is a fruitful collaboration to explore for both of our memberships and the wider public.\n\nThe Asia Society's depth of knowledge about critical issues, key leaders and cultural perspectives coming out of Asia can inform the topics, people and conversations featured in the long-running Seminar series curated and hosted by Long Now's president Stewart Brand. Public access to the recorded talks broadens the reach of this in-depth collaboration.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180423-mahbubani-podcast.mp3"
+},
+"duration":
+"PT91M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Kishore Mahbubani: Has the West Lost It? Can Asia Save It?"
+}

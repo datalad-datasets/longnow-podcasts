@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"38952192",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-04-09T02:30:00",
+"description":
+"More than any other political entity, cities learn from each other. San Francisco's youthful mayor has traveled the world examining what works best in other cities. Now in his sixth year on the job, he has seen various ideas and programs bloom or wither, and has led the city's ambition to become one of the world's Greenest. In this talk we hear about lessons learned and plans in the making, in a world now mostly urban.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020090408-newsom-podcast.mp3"
+},
+"duration":
+"PT61M18S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Gavin Newsom: Cities and Time"
+}

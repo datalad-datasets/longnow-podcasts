@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"13164672",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-01-27T03:30:00",
+"description":
+"Why are so many experts so wrong, yet people keep listening to them? Who really is worth listening  to about the future?  The author of Expert Political Judgement builds on Isaah Berlin's characterization of judgment modes into Hedgehogs (who know one big thing) and Foxes (who know many things).  Hedgehogs don't notice and don't care when they're wrong; that's why they're so compelling.  Foxes learn.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070126-tetlock-podcast.mp3"
+},
+"duration":
+"PT73M07S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Philip Tetlock: Why Foxes Are Better Forecasters Than Hedgehogs"
+}

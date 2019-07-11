@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"156410607",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-10-07T02:30:00",
+"description":
+"Infrastructure decisions—and failures to decide—affect everything about a society for centuries.  That long shadow, James Fallows points out, is what makes the decisions so difficult, because \"We must choose among options whose consequences we can't fully anticipate.”  What we do know is that infrastructure projects are hugely disruptive and expensive in the short term, and neglecting to deal with infrastructure is even more disruptive and expensive in the long term.  What would a healthy civilization do?\n\nThese days California is making decisions about high-speed rail, about water supply for agriculture, about driverless cars, about clean energy—all infrastructure issues with long, uncertain shadows. Fallows reminds us that  \"Everything about today's California life is conditioned by decisions about its freeway network made 60-plus years ago, and by the decision to tear up the Southern California light-rail network in the decades before that.”   (That remark came in a 15-part series of blogs about high-speed rail in California that Fallows posted at theatlantic.com.  He approves of the project.)\n\nJames Fallows is the journalist’s journalist, covering in depth subjects such as China, the Mideast, flying, the military, Presidential speeches (he once wrote them for Jimmy Carter), journalism itself, and his native California.  Based at The Atlantic magazine for decades, he blogs brilliantly and has produced distinguished books such as Postcards from Tomorrow Square, Blind into Baghdad, and Breaking the News: How the Media Undermine American Democracy.\n\nThis will be the first time he speaks about civilization entire.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020151006-fallows-podcast.mp3"
+},
+"duration":
+"PT81M24S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"James Fallows: Civilization's Infrastructure"
+}

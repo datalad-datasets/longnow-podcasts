@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"11132928",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-01-10T03:30:00",
+"description":
+"George Dyson is ringing a change on the famous 1959 lecture by physicist Richard Feynman that showed the way to nanotechnology.  It was called, \"There's Plenty of Room at the Bottom.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040109-dyson-podcast.mp3"
+},
+"duration":
+"PT90M08S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"George Dyson: There's Plenty of Room at the Top: Long-term Thinking About Large-scale Computing"
+}

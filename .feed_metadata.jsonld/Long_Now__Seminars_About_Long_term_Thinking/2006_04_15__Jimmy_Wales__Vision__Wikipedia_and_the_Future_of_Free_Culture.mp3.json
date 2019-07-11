@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"13650048",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-04-15T02:30:00",
+"description":
+"Vision is one of the most powerful forms of long-term thinking. Jimmy Wales, founder and president of the all-embracing online encyclopedia Wikipedia, examines how vision drives and defines that project and its strategy--- and how it fits into the even larger world and prospects of \"free culture.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020060414-wales-podcast.mp3"
+},
+"duration":
+"PT76M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jimmy Wales: Vision: Wikipedia and the Future of Free Culture"
+}

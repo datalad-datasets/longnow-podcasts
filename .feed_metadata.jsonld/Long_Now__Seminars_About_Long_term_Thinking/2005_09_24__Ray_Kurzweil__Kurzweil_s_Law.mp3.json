@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"50785502",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-09-24T02:30:00",
+"description":
+"The next Seminar About Long-term Thinking features Ray Kurzweil, speaking on \"Kurzweil's Law\"--- the exponential trend of accelerating returns governing life and technology.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050923-kurzweil-podcast.mp3"
+},
+"duration":
+"PT105M53S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ray Kurzweil: Kurzweil's Law"
+}

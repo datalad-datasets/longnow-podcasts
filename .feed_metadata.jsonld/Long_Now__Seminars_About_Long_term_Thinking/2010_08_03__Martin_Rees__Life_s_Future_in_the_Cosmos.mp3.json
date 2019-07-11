@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"47892757",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-08-03T02:30:00",
+"description":
+"President of the Royal Society, England's Astronomer Royal, Lord Martin Rees brings a lifetime of cosmological inquiry to a crucial question: What if human success on Earth determines life's success in the universe?\nHe thinks that civilization's chances of getting out of this century intact are about 50-50. He is hopeful that extraterrestrial life already exists, but there's no sign of it yet. But even if we are now alone, he notes that we may not even be the halfway stage of evolution. There is huge scope for post-human evolution, so that \"it will not be humans who watch the sun's demise, 6 billion years from now. Any creatures that then exist will be as different from us as we are from bacteria or amoebae.\"\nAppropriately, Rees's Long Now talk will be at the Chabot Space &amp; Science Center in the hills above Oakland, in the planetarium.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100802-rees-podcast.mp3"
+},
+"duration":
+"PT99M42S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Martin Rees: Life's Future in the Cosmos"
+}

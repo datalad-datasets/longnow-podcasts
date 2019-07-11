@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"50304311",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-04-06T02:30:00",
+"description":
+"Alexander Rose, Long Now Executive Director and project manager for the Clock of the Long Now, discussed lessons learned in multi-millennial site design.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110405-rose-podcast.mp3"
+},
+"duration":
+"PT52M24S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Alexander Rose: Millennial Precedent"
+}

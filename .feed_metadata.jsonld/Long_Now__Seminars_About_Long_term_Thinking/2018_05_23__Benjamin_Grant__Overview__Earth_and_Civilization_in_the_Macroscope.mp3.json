@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"79235114",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-05-23T02:30:00",
+"description":
+"Civilization is both astonishing and astonishingly various when viewed from slightly above. Not so far above as to be lost in planetary context, but just high enough to see a fascinating thing whole, entire, intensely peculiar and informative. The glory is in the high-resolution details, in the perpetually surprising god’s-eye perspective, and in the shocking patterns that we arrange things in without even knowing it.\n\nRevel in a host of such images and the understanding that emerges from them with collector/curator Benjamin Grant, author of the book Overview and host of the Instagram project “Daily Overview.”",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180522-grant-podcast.mp3"
+},
+"duration":
+"PT81M59S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Benjamin Grant: Overview: Earth and Civilization in the Macroscope"
+}

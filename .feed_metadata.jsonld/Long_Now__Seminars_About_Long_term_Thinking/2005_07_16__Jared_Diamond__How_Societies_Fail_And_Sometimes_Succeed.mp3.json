@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"13555584",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-07-16T02:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050715-diamond-podcast.mp3"
+},
+"duration":
+"PT71M46S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jared Diamond: How Societies Fail-And Sometimes Succeed"
+}

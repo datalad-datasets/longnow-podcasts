@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"49080388",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-02-25T03:30:00",
+"description":
+"Journalist Weisman traveled the world to investigate what happens when humans stop occupying an area.  How long do our artifacts last?  How does nature recover?  What does that say about the human impact on the world?  What would be the actual sequence of events if all of humanity suddenly disappeared?\nThe exercise provides inspiration and techniques for humans to occupy Earth more lightly and therefore more durably.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100224-weisman-podcast.mp3"
+},
+"duration":
+"PT102M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Alan  Weisman: World Without Us, World With Us"
+}

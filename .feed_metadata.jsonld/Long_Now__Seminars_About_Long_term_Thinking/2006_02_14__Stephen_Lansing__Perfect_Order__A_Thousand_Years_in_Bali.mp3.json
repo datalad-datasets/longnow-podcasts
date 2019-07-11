@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"14882816",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2006-02-14T03:30:00",
+"description":
+"Anthropologist/ecologist Stephen Lansing tells a gorgeous tale of how spiritual practices in Bali have finessed over 1,000 years the most nuanced and productive agricultural system in the world.  Cutting edge complexity theory spells out how the highly complex, highly adaptive system emerged.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020060213-lansing-podcast.mp3"
+},
+"duration":
+"PT79M21S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stephen Lansing: Perfect Order: A Thousand Years in Bali"
+}

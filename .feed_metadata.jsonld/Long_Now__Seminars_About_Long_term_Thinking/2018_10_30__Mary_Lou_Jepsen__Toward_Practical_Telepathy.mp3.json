@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86742084",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-10-30T02:30:00",
+"description":
+"With her stunning breakthroughs in neural imaging, Mary Lou Jepsen is making the brain readable (and stimulatable) in real time. That will revolutionize brain study and brain medicine, but what about brain communication? Could a direct high-resolution interface to the brain lead to what might be called practical mental telepathy? What are the prospects for brain enhancement?\n\nWhat are the ethics of direct brain reading and intervention?\n\nMary Lou Jepsen founds programs and companies on the hairy edges of physics, invents solutions and takes them to prototype all the way through to high volume mass production. She's done this at Intel, MIT’s Media Lab, One Laptop Per Child, Pixel Qi, Google X, and Facebook (Oculus). She is the founder and CEO of Openwater, which is \"devising a new generation of imaging technologies, with high resolution and low costs, enabling medical diagnoses and treatments, and a new era of fluid and affordable brain-to-computer communications.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020181029-jepsen-podcast.mp3"
+},
+"duration":
+"PT89M57S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Mary Lou Jepsen: Toward Practical Telepathy"
+}

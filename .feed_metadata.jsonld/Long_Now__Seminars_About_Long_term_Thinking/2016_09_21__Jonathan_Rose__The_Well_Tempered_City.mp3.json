@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"161741565",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-09-21T02:30:00",
+"description":
+"Cities and urban regions can make coherent sense, can metabolize efficiently, can use their very complexity to solve problems, and can become so resilient they “bounce forward” when stressed. \n\nIn this urbanizing century ever more of us live in cities (a majority now; 80% expected by 2100), and cities all over the world are learning from each other how pragmatic governance can work best.  Jonathan Rose argues that the emerging best methods focus on deftly managing “cognition, cooperation, culture, calories, connectivity, commerce, control, complexity, and concentration.”\n\nUnlike most urban theorists and scholars, Rose is a player.  A third-generation Manhattan real estate developer, in 1989 he founded and heads the Jonathan Rose Company, which does world-wide city planning and investment along with its real estate projects--half of the work for nonprofit clients.  He is the author of the new book, THE WELL-TEMPERED CITY: What Modern Science, Ancient Civilizations, and Human Nature Teach Us About the Future of Urban Life.\n\nThe Jonathan F.P. Rose book tour is being sponsored by Citi who is happy to provide a copy of his new book, The Well-Tempered City: What Modern Science, Ancient Civilizations and Human Behavior Teach Us About the Future of Urban Life, to everyone in attendance. Citi supports the efforts of individuals like Jonathan Rose whose work aligns with their mission to enable progress in communities across the globe.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160920-rose-podcast.mp3"
+},
+"duration":
+"PT84M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jonathan Rose: The Well Tempered City"
+}

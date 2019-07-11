@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"116554145",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-03-23T02:30:00",
+"description":
+"Via trade and other cultural activities, \"ideas have sex,\" and that drives human history in the direction of inconstant but accumulative improvement over time.  The criers of havoc keep being proved wrong.  A fundamental optimism about human affairs is deeply rational and can be reliably conjured with.\n\nTrained at Oxford as a zoologist and an editor at The Economist for eight years, Matt Ridley's is the author of The Rational Optimist: How Prosperity Evolves.  His earlier works include Francis Crick; Nature via Nurture; Genome; and The Origins of Virtue.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110322-ridley-podcast.mp3"
+},
+"duration":
+"PT97M08S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Matt Ridley: Deep Optimism"
+}

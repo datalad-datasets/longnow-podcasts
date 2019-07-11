@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"48493156",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-07-13T02:30:00",
+"description":
+"Policy makers typically ignore or misuse history.  They are attracted by simplistic theories and analogies and take little account of huge events outside their policy-making domain.\nScholarly historians can cure those blindnesses but are seldom invited to.  Specifically, trained historians can help improve policy decisions by bringing the perspectives of vertical history (deep causes), horizontal history (complex linkages), chronological proportionality (many big deals aren't big for long), unintended consequences (irony abounds), and recognizing the limits of policy.\nFrancis Gavin is an historian at the University of Texas specializing in international policy.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100712-gavin-podcast.mp3"
+},
+"duration":
+"PT100M57S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Frank Gavin: Five Ways to Use History Well"
+}

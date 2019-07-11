@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"166849971",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-07-23T02:30:00",
+"description":
+"Techno thriller meets realistic optimism.  Ramez Naam, a former Microsoft executive with 19 patents to his name, wrote a riveting just-completed science fiction trilogy (Nexus, Crux, and Apex) that plays out current trends in brain enhancement.  As Naam reports in a recent blog, “Neural implants could accomplish things no external interface could: Virtual and augmented reality with all 5 senses (or more); augmentation of human memory, attention, and learning speed; even multi-sense telepathy — sharing what we see, hear, touch, and even perhaps what we think and feel with others.“\n\nNaam is also the author of important nonfiction books on humanity’s prospects for this century and beyond: More Than Human: Embracing the promise of biological enhancement and The Infinite Resource: The power of ideas on a finite planet (that one has blurbs from four previous SALT speakers—Steven Pinker, Charles C. Mann, Ray Kurzweil, and Peter Diamandis.)\n\nIn this talk Naam explores the growing convergence of human enhancements at the molecular, neural, and social levels: “I think the multiple visions of human enhancement will all focus on our increased connectivity with each other – in sci-fi ways like Nexus and in prosaic ways like the spread of computing power in mobile devices to people around the world.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150722-naam-podcast.mp3"
+},
+"duration":
+"PT86M52S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ramez Naam: Enhancing Humans, Advancing Humanity"
+}

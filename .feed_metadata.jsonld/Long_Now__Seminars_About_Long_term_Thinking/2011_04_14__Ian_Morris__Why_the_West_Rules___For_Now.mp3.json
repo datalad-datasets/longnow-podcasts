@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"47364875",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-04-14T02:30:00",
+"description":
+"A Malaysian lawyer told a British journalist: \"I am wearing your clothes, I speak your language, I watch your films, and today is whatever date it is because you say so.\"\n\nDo chaps or maps drive history?  Human brilliance and folly, or geography?  Or maybe genes, or culture?  Ian Morris goes a level deeper than Jared Diamond's Guns, Germs, and Steel to determine why the standards of Europe and North America now prevail in the world when it was the East that dominated for the 1,200 years between 550 and 1750 CE.  Why did that happen, and what will happen next?\n\nIan Morris is an archaeologist and professor of classics and history at Stanford.  His splendid book is Why the West Rules -- For Now: The Patterns of History, and What They Reveal About the Future.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110413-morris-podcast.mp3"
+},
+"duration":
+"PT98M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ian Morris: Why the West Rules - For Now"
+}

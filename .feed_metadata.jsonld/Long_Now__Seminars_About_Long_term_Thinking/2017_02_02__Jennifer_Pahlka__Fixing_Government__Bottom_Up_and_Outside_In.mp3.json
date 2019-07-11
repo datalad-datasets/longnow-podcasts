@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"81727806",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-02-02T03:30:00",
+"description":
+"Code for America was founded in 02009 by Jennifer Pahlka “to make government work better for the people and by the people in the 21st century.”  \n\nThe organization started a movement to modernize government for a digital age which has now spread from cities to counties to states, and now, most visibly, to the federal government, where Jennifer served at the White House as US Deputy Chief Technology Officer.  There she helped start the United States Digital Service, known as \"Obama's stealth startup.\"\n\nNow that thousands of people from \"metaphysical Silicon Valley\" are working for and with government, what have we learned?  Can government actually be fixed to serve citizens better—especially the neediest?  Why does change in government happen so slowly?\n\nBefore founding Code for America, Jennifer Pahlka co-created the Web 2.0 and Gov. 2.0 conferences, building on her prior experience organizing computer game developer conferences. She continues to serve as executive director of Code for America, which is based in San Francisco.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170201-pahlka-podcast.mp3"
+},
+"duration":
+"PT84M50S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jennifer Pahlka: Fixing Government: Bottom Up and Outside In"
+}

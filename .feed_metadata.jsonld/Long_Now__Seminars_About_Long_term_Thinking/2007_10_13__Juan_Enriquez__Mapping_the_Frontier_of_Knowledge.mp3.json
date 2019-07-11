@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"44372992",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-10-13T02:30:00",
+"description":
+"Enriquez has a world-class collection of historic maps made at the very point of discovery.  He will deploy them for the first time in one of his dazzling presentations, to examine how we image and imagine what we are exploring, and thus image and imagine exploration itself.  Enriquez is author of As the Future Catches You and The United States of America, and CEO and Chair of Biotechonomy, a life sciences research and investment firm.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020071012-enriquez-podcast.mp3"
+},
+"duration":
+"PT89M22S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Juan Enriquez: Mapping the Frontier of Knowledge"
+}

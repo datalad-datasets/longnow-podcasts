@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"87219816",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-11-20T03:30:00",
+"description":
+"“This time is different.”\n\nHistorians: “Ha.”\n\n“The Net is net beneficial.”\n\nHistorian Niall Ferguson: “Globalization is in crisis.  Populism is on the march.  Authoritarian states are ascendant. Technology meanwhile marches inexorably ahead, threatening to render most human beings redundant or immortal or both.  How do we make sense of all this?”\n\nFerguson analyzes the structure and prospects of “Cyberia” as yet another round in the endless battle between hierarchy and networks that has wrought spasms of innovation and chaos throughout history. He examines those previous rounds (including all that was set in motion by the printing press) in light of the current paradoxes of radical networking enabled by digital technology being the engine of massive hierarchical companies (Facebook, Amazon, Google, Twitter, and their equivalents in China) and exploited by populists and authoritarians around the world.\n\nHe puts the fundamental question this way: “Is our age likely to repeat the experience of the period after 1500, when the printing revolution unleashed wave after wave of revolution? Will the new networks liberate us from the shackles of the administrative state as the revolutionary networks of the sixteenth, seventeenth and eighteenth centuries freed our ancestors from the shackles of spiritual and temporal hierarchy? Or will the established hierarchies of our time succeed more quickly than their imperial predecessors in co-opting the networks, and enlist them in their ancient vice of waging war?”\n\nNiall Ferguson is currently a senior research fellow at Jesus College, Oxford, a senior fellow at the Hoover Institution, Stanford University, and visiting professor at the New College of the Humanities. His books include The Square and the Tower: Networks and Power, from the Freemasons to Facebook (2018); Civilization: The West and the Rest (2012); and The Ascent of Money: A Financial History of the World (2009).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020181119-ferguson-podcast.mp3"
+},
+"duration":
+"PT90M16S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Niall Ferguson: Networks and Power"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"89003796",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-03-14T02:30:00",
+"description":
+"The Enlightenment worked, says Steven Pinker.  By promoting reason, science, humanism, progress, and peace, the programs set in motion by the 18th-Century intellectual movement became so successful we’ve lost track of what that success came from.\n\nSome even discount the success itself, preferring to ignore or deny how much better off humanity keeps becoming, decade after decade, in terms of health, food, money, safety, education, justice, and opportunity.  The temptation is to focus on the daily news, which is often dire, and let it obscure the long term news, which is shockingly good.\n\nThis is the 21st Century, not the 18th, with different problems and different tools.  What are Enlightenment values and programs for now?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180313-pinker-podcast.mp3"
+},
+"duration":
+"PT92M18S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Steven Pinker: A New Enlightenment"
+}

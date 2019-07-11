@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"44462775",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-01-18T03:30:00",
+"description":
+"A dazzlingly incisive presenter, Lawrence Lessig specializes in identifying deep systemic problems in public process (such as copyright malfunction and Congressional dysfunction) and then showing how they can be cured.  Currently he is bearing down on the corruption of Congress by the practice of private funding for public elections through campaign contributions.  He writes:  \"The dependency of modern campaign finance is the single most important cause of the bankruptcy of Congress. Fixing this bankruptcy is the single most important reform effort that Americans face just now.\"  As he did with helping fix copyright problems via Creative Commons, he has a plan for reforming elections to reestablish Congressional trust and effectiveness.  (Public trust in Congress is currently at 12%.)\n\nLessig is director of the Edmond J. Safra Foundation Center for Ethics at Harvard University and author of Republic, Lost (2011) and Code and Other Laws of Cyberspace (2000 and 2006).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120117-lessig-podcast.mp3"
+},
+"duration":
+"PT92M33S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Lawrence Lessig: How Money Corrupts Congress and a Plan to Stop It"
+}

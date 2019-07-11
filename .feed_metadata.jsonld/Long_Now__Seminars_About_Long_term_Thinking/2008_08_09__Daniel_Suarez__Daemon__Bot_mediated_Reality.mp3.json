@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"37696477",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-08-09T02:30:00",
+"description":
+"The viral success story of the year is a techno-thriller called Daemon.  Software developer Suarez printed the book himself after being turned down by mainstream publishers.  Blog raves, Amazon raves, and brief item in Wired magazine turned the book deservedly into a runaway hit.\nIn this presentation, his first on the subject, Suarez spells out the ideas behind Daemon and its forthcoming sequel, Freedom&trade;:  \"'Bots' are simple software programs designed to automate tasks - such as finding, retrieving, or acting upon information.  Bots set loose on the Internet have been the catalyst behind many revolutionary Web 2.0 technologies.  However, the unintended consequences of activating millions of bots in our networks -- bots that wield increasing influence over the activities and opportunities of human beings - may have serious consequences for society.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080808-suarez-podcast.mp3"
+},
+"duration":
+"PT78M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Daniel Suarez: Daemon: Bot-mediated Reality"
+}

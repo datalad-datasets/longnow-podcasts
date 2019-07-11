@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"85021110",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-02-27T03:30:00",
+"description":
+"Travel the ancient Silk Road with an archaeologist researching a revolutionary idea.\n\nNomadic pastoralists, far from being irrelevant outliers, may have helped shape civilizations at continental scale.  Drawing on his exciting field work, Michael Frachetti shows how alternative ways of conceptualizing the very essence of the word “civilization” helps us to recast our understanding of regional political economies through time and discover the unexpected roots and formation of one of the world’s most extensive and long-standing social and economic networks – the Silk Road that connected Asia to Europe.\n\nArchaeologist Michael Frachetti is an Associate Professor with the Department of Anthropology, Washington University in St. Louis and author of Pastoralist Landscapes and Social Interaction in Bronze Age Eurasia (02008).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180226-frachetti-podcast.mp3"
+},
+"duration":
+"PT88M14S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Michael Frachetti: Open Source Civilization and the Unexpected Origins of the Silk Road"
+}

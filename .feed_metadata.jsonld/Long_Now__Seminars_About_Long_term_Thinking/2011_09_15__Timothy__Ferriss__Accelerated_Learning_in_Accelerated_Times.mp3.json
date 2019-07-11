@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"40890060",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-09-15T02:30:00",
+"description":
+"As the times accelerate and we face ever more kaleidoscopic careers, a crucial meta-skill is the ability to learn new skills extremely rapidly, extremely well.  That practice has no better exemplar and proponent than Timothy Ferriss, author of The 4-Hour Body: An Uncommon Guide to Rapid-Fat Loss, Incredible Sex, and Becoming Superhuman.  Not surprisingly, he has made himself adept at compelling presentations, this one prepared especially for the Long Now audience.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110914-ferriss-podcast.mp3"
+},
+"duration":
+"PT85M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Timothy  Ferriss: Accelerated Learning in Accelerated Times"
+}

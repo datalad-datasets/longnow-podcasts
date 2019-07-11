@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"19871744",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-12-10T03:30:00",
+"description":
+"In his new book The End of Faith philosopher Sam Harris examines religious faith in terms of its consequences and aggressive irrationality.  For this talk he explores how \"end time\" beliefs play out in social behavior and public policy. A Buddhist meditator, he mixes wicked humor into his compassion.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020051209-harris-podcast.mp3"
+},
+"duration":
+"PT81M29S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Sam Harris: The View from the End of the World"
+}

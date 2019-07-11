@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"85943250",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-08-07T02:30:00",
+"description":
+"\"We live in a spectacular time,” says Juan Benet. \"We're a century into our computing phase transition. The latest stages have created astonishing powers for individuals, groups, and our species as a whole.  We are also faced with accumulating dangers -- the capabilities to end the whole humanity experiment are growing and are ever more accessible. In light of the promethean fire that is computing, we must prevent bad outcomes and lock in good ones to build robust foundations for our knowledge, and a safe future. There is much we can do in the short-term to secure the long-term.\"\n\n\"I come from the front lines of computing platform design to share a number of new super-powers at our disposal, some old challenges that are now soluble, and some new open problems. In this next decade, we’ll need to leverage peer-to-peer networks, crypto-economics, blockchains, Open Source, Open Services, decentralization, incentive-structure engineering, and so much more to ensure short-term safety and the long-term flourishing of humanity.”\n\nJuan Benet is the inventor of the InterPlanetary File System (IPFS)---a new protocol which uses content-addressing to make the web faster, safer, and more open—and the creator of Filecoin, a cryptocurrency-incentivized storage market.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180806-benet-podcast.mp3"
+},
+"duration":
+"PT89M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Juan Benet: Long Term Info-structure"
+}

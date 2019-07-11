@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"16369792",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-02-16T03:30:00",
+"description":
+"Technology acceleration is like what happens approaching the singularity in the center of a black hole--- everything is transformed utterly and unpredictably.  That metaphor was invented by science fiction writer Vernor Vinge in 1980s and has entered standard usage as a way of thinking about the near future.  In this talk Vinge challenges his own idea, investigating scenarios of \"a human-scaled world with long time horizons,\" and how that might play out over ten or twenty thousand years.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070215-vinge-podcast.mp3"
+},
+"duration":
+"PT90M55S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Vernor Vinge: What If the Singularity Does NOT Happen?"
+}

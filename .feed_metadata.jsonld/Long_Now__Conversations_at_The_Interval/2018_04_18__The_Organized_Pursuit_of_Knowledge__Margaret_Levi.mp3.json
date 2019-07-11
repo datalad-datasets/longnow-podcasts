@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"73210485",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-04-18T17:16:19",
+"description":
+"The human quest to understand our world continues. The Director of Stanford’s Center for Advanced Studies in the Behavioral Sciences (CASBS) discusses how academics and researchers have organized the study of human action, society, and institutions over time, how they share their findings, and what transformations we need for the future.\n\nMargaret Levi is Professor of Political Science at Stanford University and the Sara Miller McCune Director of CASBS. She is Jere L. Bacharach Professor Emerita of International Studies in the Department of Political Science at the University of Washington. She became a fellow of the American Academy of Arts and Sciences in 2001, a John Simon Guggenheim Fellow in 2002, and a member of the National Academy of Sciences in 2015.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020170919-levi-podcast.mp3"
+},
+"duration":
+"PT69M15S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Organized Pursuit of Knowledge: Margaret Levi"
+}

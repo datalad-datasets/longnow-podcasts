@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86324693",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-10-16T02:30:00",
+"description":
+"“Dare mighty things” concludes the most dramatic space video in years, \"Seven Minutes of Terror.\"  Narrated by Adam Steltzner, it spelled out how the “sky crane” his team designed at JPL would have to perform an elaborate, impossible-seeming sequence to lower the huge Mars rover Curiosity to the planet’s surface from a hovering rocket guided totally by artificial intelligence.  Humans wouldn’t know if it worked until it was all over.  Hence the terror.\n\nThe actual Mars landing on August 6, 02012, went perfectly, and Steltzner found himself a TV superstar after the live coverage, and the subject of a New Yorker profile.  Before the landing, Steltzner told the writer: “Six vehicle configurations. Seventy-six pyrotechnic devices. Five hundred thousand lines of code. ZERO margin of error.....You and I are sitting at the edge of an event horizon, like a black hole.... Sunday night, we’ll slip into it, and at least two universes will be awaiting us on the other side: the  one where we succeed and the one where we fail. People are scared shitless now. But if we stick the landing, all of a sudden they’ll be saying, ‘Hey, how about doing the next one the same way?’ ”\n\nFans in the San Francisco area discovered he was local talent, the product of College of Marin, a kid who discovered science late and soared to meet it.\n\nNow he wonders, “How does our exploration of Mars inform what might come next for us humans and our Earth?”\n\nDare mighty things.\n\nThis talk is in partnership with Yerba Buena Center for the Arts and we would like to extend a special welcome to the YBCA:YOU members.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020131015-steltzner-podcast.mp3"
+},
+"duration":
+"PT89M52S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Adam Steltzner: Beyond Mars, Earth"
+}

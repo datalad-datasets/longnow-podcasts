@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"75623278",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-08-08T02:30:00",
+"description":
+"Nicky Case’s presentations are as ingenious, compelling, and graphically rich as the visualizing tools and games Nicky creates for understanding complex dynamic systems.\n\nCase writes: “We need to see the non-linear feedback loops between culture, economics, and technology.  Not only that, but we need to see how collective behavior emerges from individual minds and motives.  We need new tools, theories, and visualizations to help people talk across disciplines.”\n\nNicky Case is the creator of Parable of the Polygons (02014), Coming Out Simulator (02014), We Become What We Behold (02016), To Build A Better Ballot (02016), and LOOPY (02017).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170807-case-podcast.mp3"
+},
+"duration":
+"PT78M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Nicky Case: Seeing Whole Systems"
+}

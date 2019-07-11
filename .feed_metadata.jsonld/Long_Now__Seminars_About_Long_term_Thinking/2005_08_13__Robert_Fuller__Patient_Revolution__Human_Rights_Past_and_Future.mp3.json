@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"7385216",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-08-13T02:30:00",
+"description":
+"From time to time a portion of humanity declares a new human right. Behavior thought normal for thousands of years is suddenly challenged.&nbsp; What does it take for the new right to prevail?&nbsp; It takes steady bearing down on the issue over decades and centuries...\nBob Fuller is the author of Somebodies and Nobodies: Overcoming the Abuse of Rank.&nbsp; The book defines \"rankism\"--- the pervasive misuse of power relationships that is expressed not just in racism and sexism but in every form of humiliation.&nbsp; Humans have the universal right, the new movement insists, to be treated with dignity.&nbsp; Fuller was president of Oberlin College when it integrated racially in the early 1970s.&nbsp; Before that he was a highly regarded physicist working with John Wheeler.&nbsp; After that he was a \"citizen diplomat\" quietly helping end the Cold War.&nbsp; On stage he is a vivid story teller.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020050812-fuller-podcast.mp3"
+},
+"duration":
+"PT61M31S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Robert Fuller: Patient Revolution: Human Rights Past and Future"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86688795",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-03-14T02:30:00",
+"description":
+"Bjorn Lomborg does cost/benefit analysis on global good. There are surprises when you examine what are the highest-yield targets in the domains of health, poverty, education, reduced violence, gender equality, climate change, biodiversity, and good governance. Reducing trade restrictions floats to the top: $1 spent yields $2,000 of good for everyone. Contraception for women is close behind, with a whole array of benefits. For health go after tuberculosis, malaria, and child malnutrition. For climate change, phase out fossil fuel subsidies and invest in energy research.  For biodiversity, focus especially on saving coral reefs.\n\nMost aid and philanthropy decisions are made based on persuasive sounding narratives, and we relish taking part in those stories, even if the actual results are mixed. But the results of the most pragmatic approach, built on statistics and economic analysis rather than narrative, can be stunning. \n\nBjorn Lomborg is author of Prioritizing the World (02014), Cool It (02007), and The Skeptical Environmentalist (02001).\n\nHere is link to the Copenhagen Consensus flyer, The Smartest Targets For The World, which was shared at Dr. Lomborg’s talk.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170313-lomborg-podcast.mp3"
+},
+"duration":
+"PT90M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Bjorn Lomborg: From Feel-Good to High-Yield Good: How to Improve Philanthropy and Aid"
+}

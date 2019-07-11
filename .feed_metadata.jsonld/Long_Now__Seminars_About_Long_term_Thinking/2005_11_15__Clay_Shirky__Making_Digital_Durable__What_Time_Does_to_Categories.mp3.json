@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"18112640",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-11-15T03:30:00",
+"description":
+"Clay Shirky is the most riveting of speakers at tech conferences, with his deep insight into social software and the culture and economics of networks.  His talk for the next Seminar About Long-term Thinking takes on one of the most intractable problems of the information age: how to preserve digital information and tools in usable condition beyond ten years.  The continuity of civilization is at stake in this matter.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020051114-shirky-podcast.mp3"
+},
+"duration":
+"PT96M30S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Clay Shirky: Making Digital Durable: What Time Does to Categories"
+}

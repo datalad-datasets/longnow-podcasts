@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86241770",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-05-22T02:30:00",
+"description":
+"Death is still forever, but extinction may not be---at least for creatures that humans drove extinct in the last 10,000 years.  Woolly mammoths might once again nurture their young in northern snows.  Passenger pigeon flocks could return to America’s eastern forest.  The great auk may resume fishing the coasts of the northern Atlantic.\n\nNew genomic technology can reassemble the genomes of extinct species whose DNA is still recoverable from museum specimens and some fossils (no dinosaurs), and then, it is hoped, the genes unique to the extinct animal can be brought back to life in the framework of the genome of the closest living relative of the extinct species.  For woolly mammoths, it’s the Asian elephant; for passenger pigeons, the band-tailed pigeon; for great auks, the razorbill.  Other plausible candidates are the ivory-billed woodpecker, Carolina parakeet, Eskimo curlew, thylacine (Tasmanian tiger), dodo, Xerces blue butterfly, saber-toothed cat, Steller’s sea cow, cave bear, giant ground sloth, etc.\n\nThe Long Now Foundation has taken “de-extinction” on as a project called “Revive & Restore,” led by Ryan Phelan and Stewart Brand.  They organized a series of conferences of the relevant molecular biologists and conservation biologists culminating in TEDxDeExtinction, held at National Geographic in March.  They hired a young scientist, Ben Novak, to work full time on reviving the passenger pigeon.  He is now at UC Santa Cruz working in the lab of ancient-DNA expert Beth Shapiro.\n\nThis talk summarizes the progress of current de-extinction projects (Europe’s aurochs, Spain’s bucardo, Australia’s gastric brooding frog, America’s passenger pigeon) and some “ancient ecosystem revival” projects---Pleistocene Park in Siberia, the Oostvaardersplassen in the Netherlands, and Makauwahi Cave in Kaua’i.  De-extinction has been described as a “game changer” for conservation.  How might that play out for the best, and how might it go astray?  \n\nIn an era of “anthropocene ecology,” is it now possible to repair some of the deepest damage we have caused in the past?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130521-brand-podcast.mp3"
+},
+"duration":
+"PT89M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stewart Brand: Reviving Extinct Species"
+}

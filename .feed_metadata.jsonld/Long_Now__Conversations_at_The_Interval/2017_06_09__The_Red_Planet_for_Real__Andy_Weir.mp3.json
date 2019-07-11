@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"136924472",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-06-09T04:45:00",
+"description":
+"Before Andy Weir's self-published novel The Martian became a New York Times bestseller and a blockbuster film, it began as a series of blog posts. Those posts, and the online conversation they sparked, reflect Andy's lifelong love of space and his detailed research into how humans could survive a journey to the fourth planet in our Solar System. In October of 02015, in his talk at The Interval, Andy skipped the fiction and discussed the details of how a real world mission to colonize Mars would work. Hosted by Long Now's Peter Schwartz.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020151027-weir-podcast.mp3"
+},
+"duration":
+"PT70M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Red Planet for Real: Andy Weir"
+}

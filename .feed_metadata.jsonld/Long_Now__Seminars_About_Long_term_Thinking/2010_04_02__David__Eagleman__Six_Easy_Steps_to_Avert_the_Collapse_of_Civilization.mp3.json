@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"49414129",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-04-02T02:30:00",
+"description":
+"David Eagleman may be the best combination of scientist and fiction-writer alive.  Sum, his collection of afterlife alternatives, made a stunning literary debut last year and now appears in 21 languages.  Simultaneously he is a neuroscientist at Baylor College of Medicine, specializing in time perception.\nIn this talk he spells out how to save the world.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100401-eagleman-podcast.mp3"
+},
+"duration":
+"PT102M52S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"David  Eagleman: Six Easy Steps to Avert the Collapse of Civilization"
+}

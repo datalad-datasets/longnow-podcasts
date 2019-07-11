@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"61130632",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2003-12-13T03:30:00",
+"description":
+"Peter Schwartz, considered by many to be the world's leading  futurist, will be trying out new ideas in public in a talk titled,  \"The Art of the Really Long View.\"  He'll be talking about ways to  engage the next several hundred years.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020031212-schwartz-podcast.mp3"
+},
+"duration":
+"PT127M21S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Peter Schwartz: The Art Of The Really Long View"
+}

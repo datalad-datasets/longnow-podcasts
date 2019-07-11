@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42334202",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-06-28T02:30:00",
+"description":
+"Everything living evolves, but humans evolve culturally as well as biologically, and that puts us in a peculiar relation to the rest of life, with a peculiar responsibility.  If we can understand how cultural evolution works, we'll have a better handle on how to manage our responsibilities.  The question that Ehrlich has been exploring lately is whether cultural evolution really does show patterns that would yield predictive theory.  He now has data from Polynesian canoes that indicate the answer is yes, cultural evolution is patterned enough to predict with.  We can discover a new way to comprehend our own behavior and perhaps influence it to the benefit of life.\nEntomologist and population biologist Paul Ehrlich is President of Stanford's Center for Conservation Biology, author and co-author of books ranging from The Population Bomb (1968) to One With Nineveh (2004), recipient of many awards, including a MacArthur Fellowship, the Blue Planet Prize, and the Nobel-level Crafoord Prize.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080627-ehrlich-podcast.mp3"
+},
+"duration":
+"PT76M31S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Paul Ehrlich: The Dominant Animal: Human Evolution and the Environment"
+}

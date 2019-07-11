@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"8589709",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-04-28T02:30:00",
+"description":
+"Acclaimed nature photographer Lanting has created the most graphic timeline ever, at its best as a live performance.  This is the \"long now\" in glowing imagery.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070427-lanting-podcast.mp3"
+},
+"duration":
+"PT13M38S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Frans Lanting: Life's Journey Through Time"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"107329525",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-11-29T03:30:00",
+"description":
+"For 3.8 billion years, life has lived in a bath of solar radiance. The Sun’s illumination outlines which objects are appealing, bland, or repellant. Its powers of desiccation, blistering, bleaching, and revelation govern a balance between beauty and danger. Its flood of photons shapes light-harvesters (“eyes”), pigments, and surfaces---stretching planetary aesthetics to include \"invisible light\" (ultraviolet, infrared, and polarized). From euglena to Matisse, all creatures dwell in a variety of luminance locales---dramas of biospheric brightness, color mixes, and rebellions against darkness (such as fireflies and luminescent fish). The most recent rebellion has been human-devised lamps that impact everything from the artistic-military complex (camouflage and mimicry) to the materials, techniques, and display of paintings, electronic imaging, and growing plants. \n\nThis 55-minute journey travels from unicells to octopi to op-art, with a dose of PR for “planetary color webs” and their influence on awareness, desire, self-direction, memory, contemplation, and curiosity.\n\nArmed with a PhD in Biological Anthropology from Harvard, Peter Warshall has shaped watershed theory and practices, conservation biology, relations with Indian tribes in the Southwest, and refugee activities in Africa.  For a decade he was the editor of the Whole Earth Review.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020121128-warshall-podcast.mp3"
+},
+"duration":
+"PT117M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Peter Warshall: Enchanted by the Sun: The CoEvolution of Light, Life, and Color on Earth"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"78362767",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-10-01T05:52:27",
+"description":
+"Millions are migrating under duress. Refugee camps the size of cities have persisted for decades. Real dangers and sensationalized fear drive short term news cycles. In a special panel discussion hosted by Long Now academics and on the ground non-profits discuss global migration, the refugee reality, and ideas for the future. From February 02016.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160223-refugee-podcast.mp3"
+},
+"duration":
+"PT78M40S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Thinking Long-term About the Evolving Global Challenge: The Refugee Reality"
+}

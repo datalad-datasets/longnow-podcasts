@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"96942126",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-06-20T02:30:00",
+"description":
+"The bad news (not news to most): Many wild species are under severe duress.\n\nThe good news (total news to most): “Nature is thriving in an age of extinction.”\n\nEcologist and evolutionary biologist Chris Thomas has examined a little-noticed phenomenon around the world, that as an unintentional byproduct of massive human impact, biodiversity is increasing in pretty much every region of the world.  Evolution has sped up.  Wild populations are on the move, sometimes in response to climate change, often hitch-hiking on us.  Hybridization is rampant, leading at times to whole new species.  The Anthropocene, evidently, is a mass speciation event.\n\nAn ardent conservationist, Thomas makes the case that conservation efforts are far more effective when we acknowledge—and study— what nature is really up to, and work with it.\n\nChris Thomas is a professor in the Department of Biology at the University of York in England and author of Inheritors of the Earth: How Nature Is Thriving in an Age of Extinction (02017).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020180619-thomas-podcast.mp3"
+},
+"duration":
+"PT100M44S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Chris D. Thomas: Are We Initiating The Great Anthropocene Speciation Event?"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"48491995",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-04-29T02:30:00",
+"description":
+"Distinguished historian Ferguson and renowned futurist Schwartz disagree profoundly on the nature of human progress.  Both use scenarios (called \"counterfactual history\" by Ferguson) to analyze how events play out.  Ferguson wrote The War of the World (2006), a history of the violence that defined the 20th Century.  Schwartz wrote The Art of the Long View (1991), the standard text on scenario planning,  and The Long Boom (1999), on global prosperity in the 21st century.  Both speakers regard history as highly contingent.  The question is, contingent on what?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080428-ferguson-schwartz-podcast.mp3"
+},
+"duration":
+"PT100M56S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Niall Ferguson, Peter Schwartz: Historian vs. Futurist on Human Progress"
+}

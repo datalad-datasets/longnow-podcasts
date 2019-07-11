@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"62773439",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-04-10T17:05:36",
+"description":
+"Scifi author, scientist, and entrepreneur Hannu Rajaniemi  discusses the real life late Victorian attempts to map the afterlife which inspired Summerland, his latest novel.\nRajaniemi introduces us to scientists, inventors, misfits, revolutionaries, plus a tour of obscure ideas and bizarre inventions: spirit-powered sewing machines, aetheric knots, the four-dimensional geometry of Lenin’s tomb... What do these actual Victorian obsessions tell us about today’s fascination with intelligent machines and immortality? He'll sign after the talk, and Borderlands Books will be on hand selling all of his books and he will sign after the talk.\nHannu Rajaniemi was born in Finland, obtained his PhD in string theory at the University of Edinburgh and now works as a co-founder and CTO of HelixNano, a synthetic biology startup based in the Bay Area. He is the author of four novels including The Quantum Thief trilogy and Summerland.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020180710-rajaniemi-podcast.mp3"
+},
+"duration":
+"PT65M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Spirit Singularity: Science and the Afterlife at the Turn of the 20th Century: Hannu Rajaniemi"
+}

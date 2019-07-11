@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42646325",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-02-10T03:30:00",
+"description":
+"We're not just living longer, we're thriving longer, but so far we seem to be thinking shorter.  Aging societies the world over can benefit from increased longevity because human lives have added a new stage---what Bateson calls \"Adulthood II: the age of active wisdom.\"  People of grandparent age, finding themselves with more energy and health than obsolete stereotypes had led them to expect, are seeing their lives whole and the world whole and taking on radically new activities in light of that perspective.  These older adults have the potential to bring a longer perspective to decision making that affects the future. \n\nMary Catherine Bateson is a cultural anthropologist now 71, the daughter of Margaret Mead and Gregory Bateson.  Her famed 1989 book Composing a Life showed how women were learning to treat their necessarily fragmented careers as a coherent improvisational art form.  She is also the author of Composing a Further Life: The Age of Active Wisdom.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110209-bateson-podcast.mp3"
+},
+"duration":
+"PT88M46S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Mary Catherine  Bateson: Live Longer, Think Longer"
+}

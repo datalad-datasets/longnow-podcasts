@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"162531687",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-02-10T03:30:00",
+"description":
+"Once humans took charge of fire, fire remade humans and commenced remaking the world.  “We got small guts and big heads because we could cook food,” says Stephen Pyne, the world’s leading historian of fire. “We went to the top of the food chain because we could cook landscapes. And we have become a geologic force because our fire technology has so evolved that we have begun to cook the planet.“\n\nThe understanding of wildfire as an ecological benefit got its biggest boost from Pyne’s 1982 landmark book, Fire in America.  Since then he has encompassed the whole of fire history--from analysis of the  chemical reaction that “takes apart what photosynthesis puts together” to study of the massive industrialization of combustion in the last two centuries.  “The Anthropocene might equally be called the Pyrocene,” he says.\n\nA professor and “distinguished sustainability scholar” at Arizona State University, Pyne is author of 15 books on fire, including Fire: Nature and Culture and Between Two Fires: A Fire History of Contemporary America.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020160209-pyne-podcast.mp3"
+},
+"duration":
+"PT84M37S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stephen Pyne: Fire Slow, Fire Fast, Fire Deep"
+}

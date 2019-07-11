@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"87892589",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-04-18T02:30:00",
+"description":
+"It’s far easier to predict the future when you are helping make and distribute it. Nicholas Negroponte exemplifies this with his notable accomplishments, including co-founding the MIT Media Lab, being the first investor in WIRED magazine, and co-founding the One Laptop Per Child program. \n\nHis 01995 book Being Digital gave a glimpse into the world we now occupy--complete with wireless, touch screens, ebooks and personalized news. In this talk, “Beyond Digital”, Negroponte will once again give us a glimpse of the possibilities that lie ahead.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130417-negroponte-podcast.mp3"
+},
+"duration":
+"PT91M32S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Nicholas Negroponte: Beyond Digital"
+}

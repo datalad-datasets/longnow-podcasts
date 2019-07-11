@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"79917988",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-04-30T23:30:16",
+"description":
+"In August of 02018, Long Now founder Stewart Brand, renowned geneticist George Church, and a delegation of observers and scientists traveled to one of Earth's most remote places to witness the ongoing restoration of a part of Siberia back to its Pleistocene-era ecosystem. The team brought back DNA samples to evaluate for mammoth de-extinction, and lots of photos, video, and stories of a place where climate change and arctic deep time can be witnessed at once.  At this event Long Now's Stewart Brand, Kevin Kelly, and Alexander Rose will be joined by filmmakers David Alvarado and Jason Sussberg to discuss the trip and the things they learned along the way.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190122-siberia-podcast.mp3"
+},
+"duration":
+"PT82M54S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Siberia: A Journey to the Mammoth Steppe: Stewart Brand, Kevin Kelly, Alexander Rose"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"45481760",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-05-04T02:30:00",
+"description":
+"Hidden and powerful and growing worldwide at twice the rate of the legal economy, \"deviant globalization\" is described by Nils Gilman as \"human trafficking, drug dealing, gun running, cross-border waste disposal, organ trading, sex tourism, money laundering, transnational gangs, piracy (both intellectual and physical), and so on.\"\nHe adds: \"The structure of the current global economy is not designed for equitable, plodding growth; it's designed to reward opportunistic, risk-seeking innovators. Were one to construct an investment portfolio of illicit businesses, it would no doubt outperform Wall Street.\"\nIn some parts of the world, with the decline of state sovereignty and growth of grassroots communication technology, outlaw organizations are taking over statelike duties.\nTrained as an historian, Nils Gilman is a consultant at Global Business Network/Monitor for licit organizations, including the US intelligence community.  He is co-author of the forthcoming book, Deviant Globalization.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100503-gilman-podcast.mp3"
+},
+"duration":
+"PT94M40S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Nils Gilman: Deviant Globalization"
+}

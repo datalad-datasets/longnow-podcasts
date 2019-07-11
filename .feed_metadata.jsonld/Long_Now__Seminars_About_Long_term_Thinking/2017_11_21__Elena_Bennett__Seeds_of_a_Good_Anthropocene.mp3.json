@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"76108280",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-11-21T03:30:00",
+"description":
+"As humans increasingly dominate Earth’s natural systems over the coming centuries (“the Anthropocene”), how can we ensure that it becomes a “good Anthopocene”—a world in which nature and humanity prosper together?\n\nEcosystem ecologist Elena Bennett believes that discovering the most effective paths to such a future is a bottom-up process, as countless projects all over the world are exploring how nature and humans can best collaborate.  She has collected 500 such examples and assembled them into a hopeful narrative pointing toward an Anthropocene Epoch in which all life thrives.\n\nInstances of the good Anthropocene are already here.  They just need to be examined, distributed, and connected up to a working whole.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020171120-bennett-podcast.mp3"
+},
+"duration":
+"PT79M02S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Elena Bennett: Seeds of a Good Anthropocene"
+}

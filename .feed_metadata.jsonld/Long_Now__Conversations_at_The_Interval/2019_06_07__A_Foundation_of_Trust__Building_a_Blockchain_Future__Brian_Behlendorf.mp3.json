@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"68634064",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-06-07T05:32:40",
+"description":
+"An Open Source pioneer, Brian Behlendorf now leads the effort to  build the infrastructure for trust as a service. In the past he helped build the foundations of the Web with the Apache Foundation and brought Open Source to the enterprise with Collab.net. At The Interval he’ll discuss his current work leading Hyperledger at the Linux Foundation to unlock blockchain’s potential beyond cryptocurrency.\nBrian Behlendorf is Executive Director for Hyperledger, a project of the Linux Foundation. Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. Previously he was the primary developer of the Apache Web server, the most popular web server software on the Internet, and a founding member of the Apache Software Foundation. He was the founding CTO of CollabNet and CTO of the World Economic Forum. Most recently, Behlendorf was a managing director at Mithril Capital Management LLC, a global technology investment firm. He is a long-serving board member of the Mozilla Foundation and the Electronic Frontier Foundation.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020180731-behlendorf-podcast.mp3"
+},
+"duration":
+"PT71M11S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"A Foundation of Trust: Building a Blockchain Future: Brian Behlendorf"
+}

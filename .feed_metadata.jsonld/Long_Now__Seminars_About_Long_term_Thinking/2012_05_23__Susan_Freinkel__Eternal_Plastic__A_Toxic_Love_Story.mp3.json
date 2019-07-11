@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"105835059",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-05-23T02:30:00",
+"description":
+"Plastic now pervades civilization---how many of the things you see from where you are right now are plastic?  It is an ingenious material whose miraculous qualities we take too much for granted, but it also sometimes has nightmarish downstream effects.  The giant polymer molecules (polyethylene, polypropylene, polystyrene, etc.) that are so marvelously cheap to mold, extrude, shape, and weave are also extremely durable.  Their cheapness makes them the basic material of a throw-away culture (one third of all plastic goes into disposable packaging.)  Their durability means that any toxic effects persist indefinitely in the environment.\n\nPlastic presents a problem in temporal management of the very long-term and the very short-term.  How do we get the benefits of plastic's amazing durability while reducing the harm from its convenient disposability?  The matter requires close and respectful coordination between short-term experts (businesses) and long-term experts (governments and nonprofits).  Managing plastic well is a microcosm of managing civilization well.\n\nSusan Freinkel is the author of Plastic: A Toxic Love Story and American Chestnut: The Life, Death, and Rebirth of a Perfect Tree.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120522-freinkel-podcast.mp3"
+},
+"duration":
+"PT88M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Susan Freinkel: Eternal Plastic: A Toxic Love Story"
+}

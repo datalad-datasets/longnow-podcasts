@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42060754",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-10-04T02:30:00",
+"description":
+"\"You&nbsp;cannot&nbsp;manage&nbsp;elements&nbsp;of&nbsp;the&nbsp;environment&nbsp;individually, one by one, or&nbsp;all&nbsp;your&nbsp;best&nbsp;efforts&nbsp;will unravel,\" says Johnson.&nbsp; Government planning is needed, and it must match the pace and scale of the environment itself.&nbsp; He instigated that kind of planning when he was California's Secretary of Resources in the 1980s, and he is inspired by the exemplary Green Plans of the Netherlands, New Zealand, and Singapore.&nbsp; In this talk, as in his work with nations worldwide, he spells out the current best practices for serious, long-term Green Planning.\nTrained as a biologist, an avid hunter and fisherman, Huey Johnson is president of the Resource Renewal Institute, based in Fort Mason.&nbsp; After serving as head of The Nature Conservancy he founded Trust for Public Land in San Francisco in 1972.&nbsp; While Secretary of Resources from 1976 to 1982 he created a hundred-year plan for California's natural resources called \"Investing for Prosperity,\" which set in motion lasting programs of restoration for the state's rivers, forests, and wetlands, and also promoted energy conservation and renewable energy.&nbsp; In 2001 he received the Sasakawa Environment Prize from the United Nations.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020081003-johnson-podcast.mp3"
+},
+"duration":
+"PT63M17S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Huey Johnson: Green Planning at Nation Scale"
+}

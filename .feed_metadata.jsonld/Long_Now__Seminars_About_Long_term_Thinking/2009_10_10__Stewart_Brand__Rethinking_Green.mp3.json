@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42844019",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2009-10-10T02:30:00",
+"description":
+"This talk launches Brand's new book: Whole Earth Discipline: An Ecopragmatist Manifesto.&nbsp; His argument is that taking account of the emerging global forces of climate change, urbanization, and biotechnology forces a rethink of some traditional environmental positions.&nbsp;   Cities are Green, with huge room for improvement.&nbsp; Nuclear power is Green, with better still to come.&nbsp; Genetic engineering is Green and shows potentially revolutionary promise.&nbsp; Direct intervention in the climate---geoengineering---may be necessary.&nbsp; The classic environmental project of restoring natural systems has to step up in scale and deepen the quality of its science and engineering.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020091009-brand-podcast.mp3"
+},
+"duration":
+"PT90M10S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stewart Brand: Rethinking Green"
+}

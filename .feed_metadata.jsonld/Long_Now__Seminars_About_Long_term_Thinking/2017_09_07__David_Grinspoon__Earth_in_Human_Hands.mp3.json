@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"88205668",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-09-07T02:30:00",
+"description":
+"For thinking about the future of life on Earth in planetary terms, no one can match the perspective of an astrobiologist.\n\nDavid Grinspoon notes two major shifts in Earth’s biological regime: 1) 2.1 billion years ago, when cyanobacteria flipped the whole planet from anaerobic to oxygen-based life; 2) now, as humans assume domination of the Earth’s living systems.  “We suddenly find ourselves running a planet,” he says, “without knowing how it should be done.  We’re at the controls, but we’re not in control.”  The cyanobacteria were unaware of their role.  We are aware of ours.  What should we do about that?\n\nGrinspoon is professor of Astrophysical and Planetary Science at the University of Colorado and Senior Scientist at the Planetary Science Institute.  His books include: Earth in Human Hands: Shaping Our Planet’s Future (02016); Lonely Planets (02004); and Venus Revealed (01998).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170906-grinspoon-podcast.mp3"
+},
+"duration":
+"PT91M40S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"David Grinspoon: Earth in Human Hands"
+}

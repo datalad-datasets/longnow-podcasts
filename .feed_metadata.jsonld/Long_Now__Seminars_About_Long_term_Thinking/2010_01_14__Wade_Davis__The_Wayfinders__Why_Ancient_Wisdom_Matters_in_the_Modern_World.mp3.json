@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"52452101",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-01-14T03:30:00",
+"description":
+"Anthropologist Wade Davis is one of the world's great story tellers, with personal adventures to match.  An Explorer-in-Residence at National Geographic, he specializes in hanging out with traditional peoples and exploring their religious practices.\nHe first came to public notice with his discovery of the reality of zombies in Haitian voodoo and the substance used to poison them---chronicled in his 1985 book, The Serpent and the Rainbow.  He is the author of 13 books, including One River and Shadows in the Suns, and has hosted, written, and starred in numerous television specials, including \"Earthguide,\" \"Light at the Edge of the World,\" \"Spirit of the Mask,\" and \"Forests Forever.\"  This talk is based on the prestigious Massey Lectures that Davis gave in Canada in 2009.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100113-davis-podcast.mp3"
+},
+"duration":
+"PT109M12S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Wade Davis: The Wayfinders: Why Ancient Wisdom Matters in the Modern World"
+}

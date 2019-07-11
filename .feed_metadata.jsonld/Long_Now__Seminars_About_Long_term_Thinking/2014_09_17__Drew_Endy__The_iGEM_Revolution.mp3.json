@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"184674213",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-09-17T02:30:00",
+"description":
+"iGEM stands for the “International Genetically Engineered Machines” competition.\n\nThousands of student bioengineers from all over the world construct new life forms and race them every year at the Giant Jamboree in Boston.  iGEM has been going on for ten years (2,500 competitors this year, over 32 countries, 20,000+ alumni) and gives a peerless window into the global grassroots synthetic-biology revolution, yet the phenomenon has been largely overlooked by the media, industry, and most governments.\n\niGEM began with college undergraduates and recently expanded to include high school teams.  In making their genetic creations students get from and give back to a repository of over 10,000 genetic components called BioBricks parts.  The organisms (mostly microbes) the students engineer range from frivolous (doing a stadium-style “wave”) to beneficial (detecting and eliminating water pollutants) to ingenious (increasing plant root structure to fix carbon while ensuring that no exotic genes can escape).  iGEM teams \"are also challenged to actively consider and address the safety, security and environmental implications of their work.\"\n\nDrew Endy, a professor of Bioengineering at Stanford, was one of the creators of iGEM and is co-founder and president of the BioBricks Foundation, an organization whose mission is \"to develop biotechnology in an open and ethical manner to benefit all people and the planet.\"  He is a strong proponent of “open source” biotech and public discussion of the techniques, benefits, and potential hazards of synthetic biology.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140916-endy-podcast.mp3"
+},
+"duration":
+"PT96M09S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Drew Endy: The iGEM Revolution"
+}

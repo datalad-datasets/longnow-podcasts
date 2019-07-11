@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"14229632",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-03-10T03:30:00",
+"description":
+"How vulnerable are we to climate change?  What does it do to us, exactly?  Human experience over the last 15,000 years shows that even slight climate shifts have been one of the major shapers of history and pre-history, though that is overlooked in most history books and in most of the current public discourse about climate change.  An experienced television presenter, anthropologist Brian Fagan is the author of The Long Summer: How Climate Changed Civilization.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070309-fagan-podcast.mp3"
+},
+"duration":
+"PT79M02S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Brian Fagan: We Are Not the First to Suffer Through Climate Change"
+}

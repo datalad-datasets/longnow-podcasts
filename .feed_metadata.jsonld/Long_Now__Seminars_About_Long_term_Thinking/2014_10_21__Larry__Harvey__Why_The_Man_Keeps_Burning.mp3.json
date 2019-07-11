@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"175572374",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-10-21T02:30:00",
+"description":
+"“Scaling up will kill Burning Man.”  “That new rule will kill Burning Man.”  “The Bureau of Land Management will kill Burning Man.”  “Selling tickets that way will kill Burning Man.”  “Board infighting will kill Burning Man.”  “Upscale turnkey camps will kill Burning Man.”\n\nHa.\n\nWhat if Burning Man is too fragile to be killed?  What if celebrating ephemerality is the best guarantee of continuity?  What if every year’s brand new suspension of disbelief has deep-down durability?  What if conservatively radical principles and evolving rules are more robust over time than anything merely physical?\n\nWhat really keeps the Man burning?  If anyone knows, it should be the event’s primary founder, author of The Principles, and ongoing Chief Philosophical Officer, artist Larry Harvey.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020141020-harvey-podcast.mp3"
+},
+"duration":
+"PT91M24S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Larry  Harvey: Why The Man Keeps Burning"
+}

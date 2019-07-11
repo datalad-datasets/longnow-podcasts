@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"59639827",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-11-18T03:30:00",
+"description":
+"Bioengineer Drew Endy is the leading enabler of open-source biotechnology. Technology historian Jim Thomas is the leading critic of biotech, based with ETC Group in Ottawa.\n\"Synthetic Biology includes the broad redefinition and expansion of biotechnology, with the ultimate gils of being able to design and build engineered biological systems that process information, manipulate chemicals, fabricate materials and structures, produce energy, provide food, and maintain and enhance human health and our environment.\" -- Wikipedia.\nSynthetic biology is swarming ahead all over the world, at a self-accelerating pace far greater than Moore's Law, with a range of impacts far greater than genetically engineered food crops. Jim Thomas raises the question: \"Is Synthetic Biology reckless or wise from the perspective of 'the long now?'. I feel the synthetic biology community is driven by immensely short term assumptions and motivations, and as a result the medium term prospect for this platform holds both predictable problems and nasty surprises.\"\nDrew Endy says: \"Jim and I have somehow managed to establish a productive working relationship, and feel that there is now a once-in-a-generation opportunity to develop the cultural foundations needed to support long term and constructive discussions of the issues existing and emerging with biotechnology---safety, equity, security, community, and so on.\"\nThe point of Long Now debates is not win-lose. The point is public clarity and deep understanding, leading to action graced with nuance and built-in adaptivity, with long-term responsibility in mind.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020081117-endy-thomas-podcast.mp3"
+},
+"duration":
+"PT63M17S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Drew Endy, Jim Thomas: Synthetic Biology Debate"
+}

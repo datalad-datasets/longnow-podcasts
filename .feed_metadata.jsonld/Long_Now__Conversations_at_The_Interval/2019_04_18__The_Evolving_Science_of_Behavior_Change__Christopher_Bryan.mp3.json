@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"69287107",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-04-18T22:02:21",
+"description":
+"Human civilization is used to being saved by technology. The 20th century  was defined by humanity’s ability to invent a pill, vaccine, or device to overcome our biggest challenges. Today, many of the most serious threats to human health well-being require large-scale changes in individual behavior. The problem is people are really bad at prioritizing long-term goals over their immediate desires and the science of behavior change is still badly underdeveloped. Christopher Bryan's recent research suggests we can motivate long-lasting behavior change by aligning around values. He'll explain how it works.\n\nChristopher Bryan studies persuasion and influence with an emphasis on how subtle differences in framing can shape people’s understanding of a behavior or decision and influence their behavior choices. Behavior choices play a critical role in society’s most daunting policy challenges—climate change, global hunger, and obesity, to name some—and have received increasing attention in academic and policy circles. He is a 02018-19 fellow at the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University who are co-producers of this talk.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190219-bryan-podcast.mp3"
+},
+"duration":
+"PT71M51S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Evolving Science of Behavior Change: Christopher Bryan"
+}

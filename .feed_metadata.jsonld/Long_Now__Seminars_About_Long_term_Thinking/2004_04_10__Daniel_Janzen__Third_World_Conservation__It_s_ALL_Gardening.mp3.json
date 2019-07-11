@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"11550720",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2004-04-10T02:30:00",
+"description":
+"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020040409-janzen-podcast.mp3"
+},
+"duration":
+"PT86M29S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Daniel Janzen: Third World Conservation: It's ALL Gardening"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"81528228",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-01-15T03:30:00",
+"description":
+"To think usefully about humanity’s future, you have to bear everything in mind simultaneously.  Nobody has managed that better than Martin Rees in his succinct summing-up book: ON THE FUTURE: Prospects for Humanity.\n\nAs the recent President of the Royal Society (and longtime Royal Astronomer), Rees is current with all the relevant science and technology.  At 76, he has seen a lot of theories about the future come and go.  He has expert comfort in thinking at cosmic scale and teaching the excitement of that perspective.  He has explored the darkest scenarios in a previous book, OUR FINAL HOUR: A Scientist’s Warning (2004), which examined potential extreme threats from nuclear weapons, biotechnology, artificial intelligence, climate change, and terrorism.  Civilization’s greatest danger comes from civilization itself, which now operates at planetary scale.  Consequently, he says, to head off the hazards and realize humanity’s potentially fabulous prospects, \"We need to think globally, we need to think rationally, we need to think long-term.”\n\nAnd we can.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190114-rees-podcast.mp3"
+},
+"duration":
+"PT84M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Martin Rees: Prospects for Humanity"
+}

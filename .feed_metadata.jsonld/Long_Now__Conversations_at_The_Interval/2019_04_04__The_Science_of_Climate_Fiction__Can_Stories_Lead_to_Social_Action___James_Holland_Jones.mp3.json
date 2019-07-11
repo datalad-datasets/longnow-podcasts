@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"75248104",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-04-04T18:46:30",
+"description":
+"The warming planet is increasingly the subject of all kinds of fiction. Beyond entertainment or distraction could climate fiction (“Cli-Fi”) actually help us in solving the climate dilemma? Biological anthropologist and environmental scientist James Holland Jones explains the neuroscience of narrative: storytelling fits the human brain. Stories might be useful in bringing popular attention to climate and inspiring action on environmental issues.\n\nJames Holland Jones is an Associate Professor of Earth System Science and a Senior Fellow at the Woods Institute for the Environment at Stanford University. His research combines human ecology, infectious disease dynamics, social network analysis, and biodemography. Some current research interests include: Climate Change, Mobility, and Infectious Disease; The Evolution of Human Economic Preferences; The Evolution of Human Life Histories; Network-Informed Control of Ebola Virus Disease. He previously spoke at The Interval in 02017 about Evolutionary Perspective On Behavioral Economics following his fellowship year at the Center for Advanced Study in the Behavioral Sciences (CASBS).",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020190129-jones-podcast.mp3"
+},
+"duration":
+"PT77M58S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"The Science of Climate Fiction: Can Stories Lead to Social Action?: James Holland Jones"
+}

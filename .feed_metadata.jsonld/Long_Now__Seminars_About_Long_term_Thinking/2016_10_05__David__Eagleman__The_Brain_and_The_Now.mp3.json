@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"155774650",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2016-10-05T02:30:00",
+"description":
+"David Eagleman gives the keynote talk on \"The Brain and The Now\" at the Long Now Member Summit and is joined onstage after his talk by Stewart Brand and Danny Hillis for further discussion and Q&amp;A. \n\n02016 marks The Long Now Foundation's 20th year and we are holding our first Summit to showcase and connect with our amazing community, on Tuesday October 4, 02016 from noon to 11:30pm, at Fort Mason Center in San Francisco.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020161004-eagleman-podcast.mp3"
+},
+"duration":
+"PT81M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"David  Eagleman: The Brain and The Now"
+}

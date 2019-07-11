@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"9730176",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2005-10-06T02:30:00",
+"description":
+"\"The Difficulty of Looking Far Ahead\" is Freeman Dyson's subject at the next Seminar About Long-term Thinking.  He will be joined for the first time on a public stage by his daughter Esther Dyson and son George Dyson.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020051005-dyson-dyson-dyson-podcast.mp3"
+},
+"duration":
+"PT81M04S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Esther Dyson, Freeman Dyson, George Dyson: The Difficulty of Looking Far Ahead"
+}

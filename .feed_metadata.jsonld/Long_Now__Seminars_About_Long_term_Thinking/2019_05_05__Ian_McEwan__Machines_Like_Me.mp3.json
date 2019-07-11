@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"93248590",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-05-05T02:30:00",
+"description":
+"In his new novel, Machines Like Me, Ian McEwan uses science fiction and counter-factual history to speculate about the coming of artificial intelligence and its effect on human relations.  The opening page introduces a pivotal character, \"Sir Alan Turing, war hero and presiding genius of the digital age.”\n\nThe evening with McEwan will feature conversation with Stewart Brand, based on written questions from the audience, along with some readings.\n\nIan McEwan is the author of Enduring Love (1997), Amsterdam (1998; Booker Prize), Atonement (2001), Saturday (2005), The Children Act (2014), and others. Twelve movies have been made from his novels and short stories, five of them with screenplays by McEwan.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190504-mcewan-podcast.mp3"
+},
+"duration":
+"PT96M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ian McEwan: Machines Like Me"
+}

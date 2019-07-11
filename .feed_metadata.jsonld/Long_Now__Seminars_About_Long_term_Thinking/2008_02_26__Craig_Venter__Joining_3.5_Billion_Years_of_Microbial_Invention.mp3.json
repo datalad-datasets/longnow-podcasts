@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"52543472",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-02-26T03:30:00",
+"description":
+"With his current series of breakthroughs in synthetic biology Craig Venter and his team are not so much creating life as joining life. Reverse-engineering evolution's long-refined tricks and subtleties at the molecular level is building humanity's most powerful toolkit yet. Through shotgun-sequencing whole microbial populations (\"metagenomics\"), the domain of the organisms that rule the world is at last opening up. Genome synthesis will lead to major advances in biomedicine and in adjusting civilization's global energy metabolism.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080225-venter-podcast.mp3"
+},
+"duration":
+"PT109M23S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Craig Venter: Joining 3.5 Billion Years of Microbial Invention"
+}

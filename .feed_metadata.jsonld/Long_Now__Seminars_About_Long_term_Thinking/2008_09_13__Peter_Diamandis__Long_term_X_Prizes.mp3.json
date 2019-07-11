@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"35512280",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-09-13T02:30:00",
+"description":
+"Prizes are proving themselves as powerful tools to accelerate goal-specific innovation. Diamandis, the founder and chairman of the X Prize Foundation, has built on the success of the $10 million Ansari X Prize that inaugurated private-sector spaceflight in 2004 with Burt Rutan's SpaceShipOne. Currently in play are new prizes for a $10,000 human genome, for a private Moon landing, and for a super-efficient car, with more in the pipeline.\nBut prize contests so far have focussed on near-term goals---spectacular achievements that can be accomplished in a decade or two. What might be prize-worthy hundred-year goals, or thousand-year goals? What goals might a century of focussed effort transform from the clearly impossible to the merely difficult?",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080912-diamandis-podcast.mp3"
+},
+"duration":
+"PT70M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Peter Diamandis: Long-term X-Prizes"
+}

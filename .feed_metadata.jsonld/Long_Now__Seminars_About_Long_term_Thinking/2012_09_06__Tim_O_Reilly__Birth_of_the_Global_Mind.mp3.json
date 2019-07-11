@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"46167351",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-09-06T02:30:00",
+"description":
+"“The history of civilization is a story of evolution in our ability to build complex ‘multicellular minds,‘\" says Tim O’Reilly, founder and CEO of O’Reilly Media (books, conferences, foo camps, Maker Faires, Make magazine.)\n\nSpeech allowed us to communicate and coordinate.  Writing allowed that coordination to span time and space. Twentieth century mass communications allowed shared information and culture to blanket the world.  In the 21st century, memes spread mind to mind in nearly real time.  \n\nBut that's not all.  In one breakthrough computer application after another, we see a new kind of man-machine symbiosis.  The Google autonomous vehicle turns out not to be just a triumph of artificial intelligence algorithms.  The car is guided by the cloud memory of roads driven before by human Google Streetview drivers augmented by powerful and precise new sensors. In the same way, crowd-sourced data from sensor-enabled humans is leading to smarter cities, breakthroughs in healthcare, and new economies. \n\nThe future belongs not to artificial intelligence, but to collective intelligence.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120905-oreilly-podcast.mp3"
+},
+"duration":
+"PT96M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Tim O'Reilly: Birth of the Global Mind"
+}

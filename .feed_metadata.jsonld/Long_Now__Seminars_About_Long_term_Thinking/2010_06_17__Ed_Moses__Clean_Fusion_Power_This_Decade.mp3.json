@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"118446977",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-06-17T02:30:00",
+"description":
+"Finally achieving fusion energy may be closer than everyone thinks. For decades the dream has been to employ the reaction that powers stars to generate high-volume electricity without the drawbacks of fission reactors---no high-level waste, no weapons application, no risk of meltdown, no use of uranium, and (as with fission) no greenhouse gases.\nEd Moses is director of the National Ignition Facility (NIF) at Lawrence Livermore Labs.  Focussing massive amounts of laser light for a billionth of a second, the NIF is expected to demonstrate ignition of a fusion reaction (more energy out than in) for the first time in the coming year, followed by the prospect of a prototype machine for generating continuous clean energy by the end of this decade.  That could change everything.  The NIF itself is a spectacular work of \"technological sublime.\"",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100616-moses-podcast.mp3"
+},
+"duration":
+"PT98M42S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Ed Moses: Clean Fusion Power This Decade"
+}

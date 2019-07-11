@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"184475755",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-05-21T02:30:00",
+"description":
+"Land animals on an ocean planet, we have a lot to learn about how the world works.  The microbes of the sea are Earth’s dominant life form.  Ocean currents and temperatures drive climate and weather.  Come ride a current to view bad news (dead zones, rising sea levels, melting sea ice, acidification, coral bleaching, fish piracy and overfishing) and good news (marine protected areas, functional ecosystems, megafaunal migrations, mid-Atlantic ridge, community involvement, citizen scientists) and continuing mysteries.  Land is mercurial.  Ocean abides.\n\nTwo of the most eloquent voices of ocean science are Sylvia Earle and Tierney Thys.  Both are National Geographic Explorers, both are stars of the TED stage.  They have collaborated on original and adventurous research.  For this talk they are collaborating to tell (and show) sea stories of deep waters, the deep past, and the deep future.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140520-earle-thys-podcast.mp3"
+},
+"duration":
+"PT96M03S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Sylvia Earle, Tierney Thys: Oceanic"
+}

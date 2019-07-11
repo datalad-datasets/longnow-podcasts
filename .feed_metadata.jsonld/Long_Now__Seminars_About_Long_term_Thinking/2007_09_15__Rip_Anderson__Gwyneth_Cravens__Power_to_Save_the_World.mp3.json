@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"50208768",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2007-09-15T02:30:00",
+"description":
+"The best introduction to the current realities and benefits of nuclear power is Gwyneth Cravens' forthcoming book Power to Save the World: The Truth About Nuclear Energy.  A science journalist and novelist, and long an activist against nuclear, Cravens had her assumptions shaken through friendship with the leading expert on nuclear risk assessment at Sandia National Laboratories, D. Richard Anderson, know as \"Rip.\"  Both are professional skeptics.  They took their skepticism on the road to travel the uranium atom's path in America from mine to refinery to reactor to short-term and long-term storage, with a side trip to the coal alternative.  It is a revelatory journey.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020070914-anderson-cravens-podcast.mp3"
+},
+"duration":
+"PT104M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rip Anderson, Gwyneth Cravens: Power to Save the World"
+}

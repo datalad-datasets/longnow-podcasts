@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"112801659",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-01-28T03:30:00",
+"description":
+"Stewart Brand and Paul Saffo will discuss the Pace Layers framework for how a healthy society functions, which Stewart introduced in his book The Clock of Long Now (01999). More than fifteen years after its debut, this concept continues to be influential and inspiring. From January 02015.\n\nThe Pace Layers idea is illustrated by a simple diagram showing six layers which function simultaneously at different speeds within society. They range from Nature (the slowest) to Fashion (the fastest,  shown at the top). As the layers progress, Stewart proposed, their differing speeds help make a society more adaptable. Cultures can be robust and healthy precisely because these layers come into conflict. Each level should be allowed to operate at its own pace, safely sustained by the slower levels below and kept invigorated by livelier levels above.\n\nThough originally conceived as a tool for thinking about society, Pace Layers has had broad influence as experts in other disciplines have applied its framework to their areas including consulting and systems thinking. Jeff Veen of True Ventures (formerly Adobe, Adaptive Path, and Wired)  recently said that Pace Layers provides a vocabulary to think about the stacked layers of contemporary design. Phil Libin, CEO of  Evernote, has called the Pace Layers chapter in The Clock of the Long Now “the most profound thing I've ever read.”\n\nToday in a networked world where everything seems to be about speed, awareness of the slower layers and perspective on how all layers interact can give insight into what the future may hold.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150127-brand-saffo-podcast.mp3"
+},
+"duration":
+"PT57M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stewart Brand, Paul Saffo: Pace Layers Thinking"
+}

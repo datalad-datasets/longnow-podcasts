@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"86449484",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2013-02-20T03:30:00",
+"description":
+"Chris Anderson’s book THE LONG TAIL chronicled how the Web revolutionized and democratized distribution.  His new book MAKERS shows how the same thing is happening to manufacturing, with even wider consequences, and this time the leading revolutionaries are the young of the world.  Anderson himself left his job as editor of Wired magazine to join a 22-year-old from Tijuana in running a typical Makers firm, 3D Robotics, which builds do-it-yourself drones.\n\nWeb-based collaboration tools and small-batch technology such as cheap 3D printers, 3D scanners, laser cutters, and assembly robots, Anderson points out, are transforming manufacturing.  Suddenly, large-scale manufacturers are competing not just with each other on multi-year cycles, they are competing with swarms of tiny competitors who can go from invention to innovation to market dominance in a few weeks.  Anybody can play; a great many already are; a great many more are coming.\n\n“Today,“ Anderson writes, “there are nearly a thousand ‘makerspaces‘— shared production facilities— around the world, and they’re growing at an astounding rate: Shanghai alone is building one hundred of them.“\n\n“Open source,” he adds, “is not just an efficient innovation method— it’s a belief system as powerful as democracy or capitalism for its adherents.“\n\nThis talk is in partnership with Yerba Buena Center for the Arts and we would like to extend a special welcome to the YBCA:YOU members.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020130219-anderson-podcast.mp3"
+},
+"duration":
+"PT90M00S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Chris Anderson: The Makers Revolution"
+}

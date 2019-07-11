@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"141702671",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-03-25T02:30:00",
+"description":
+"Where do the boldest innovations, with the deepest consequences for society, come from? \n\nMany business leaders, entrepreneurs, and libertarians claim that the private sector leads the way always, and government at best follows by decades and at worst impedes the process with bureaucratic regulations.\n\nMariana Mazzucato proves otherwise.  Many of the most profound innovations—from the Internet and GPS to nanotech and biotech —had their origin in government programs developed specifically to explore innovations that might eventually attract private sector interest.  Ignoring this entrepreneurial risk taking role of government has fuelled a very different story about governments role in the economy, and also fuelled the dysfunctional dynamic whereby risk is socialised—with tax payers absorbing the greatest risk--- but rewards are not. Mazzucato will argue that socialization of risk, privatization of rewards is not only bad for the future of innovation eco-systems but also a key driver of inequality. What to do about it? \n\nMazzucato is a professor of the Economics of Innovation at Sussex University and author of The Entrepreneurial State: debunking private vs. public sector myths.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140324-mazzucato-podcast.mp3"
+},
+"duration":
+"PT98M22S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Mariana Mazzucato: The Entrepreneurial State: Debunking Private vs. Public Sector Myths"
+}

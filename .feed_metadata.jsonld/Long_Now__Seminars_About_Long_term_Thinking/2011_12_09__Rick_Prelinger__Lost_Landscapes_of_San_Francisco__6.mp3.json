@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"39917469",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-12-09T03:30:00",
+"description":
+"Rick Prelinger, a guerrilla archivist who collects the uncollected and makes it accessible, presents the 6th of his annual Lost Landscapes of San Francisco screenings. You'll see an eclectic montage of rediscovered and rarely-seen film clips showing life, landscapes, labor and leisure in a vanished San Francisco as captured by amateurs, newsreel cameramen and studio filmmakers.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020111208-prelinger-podcast.mp3"
+},
+"duration":
+"PT83M05S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Rick Prelinger: Lost Landscapes of San Francisco, 6"
+}

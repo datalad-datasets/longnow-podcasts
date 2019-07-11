@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"197997269",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-06-10T02:30:00",
+"description":
+"Neil's talk will explore the way stories, myths and tales survive over great lengths of time and why creating for the future means making works that will endure within the oral tradition.\n\nPreternaturally eloquent, Neil Gaiman has told stories in every medium—graphic novels (The Sandman), novels (The Ocean at the End of the Lane; American Gods), short stories (Trigger Warning), children’s books (The Graveyard Book), television (Dr Who), the occasional song (\"I Google You\", with Amanda Palmer), and the occasional speech that goes viral (\"Make Good Art\").\n\nPhotograph of Neil Gaiman by Kimberly Butler",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150609-gaiman-podcast.mp3"
+},
+"duration":
+"PT103M06S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Neil Gaiman: How Stories Last"
+}

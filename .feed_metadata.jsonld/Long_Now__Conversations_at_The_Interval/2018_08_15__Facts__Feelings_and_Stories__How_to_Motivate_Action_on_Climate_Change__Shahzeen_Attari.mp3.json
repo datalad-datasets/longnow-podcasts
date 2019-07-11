@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"65132611",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2018-08-15T19:22:49",
+"description":
+"An environmental researcher examines perceptions of energy use & conservation and asks how we can inspire behavioral change and policy support in individuals and the public at large. With a background in environmental engineering and training in cognitive science, Dr. Attari searches for the narratives that can help us improve our environmental decision-making\nShahzeen Attari works on environmental decision-making at the individual level, looking at biases that shape people’s judgments and decisions about resource use, especially use of energy and water. She is an Associate Professor at the School of Public and Environmental Affairs at Indiana University. She holds a joint PhD in Civil and Environmental Engineering & Engineering and Public Policy from Carnegie Mellon, as well as a BS in Engineering Physics from the University of Illinois. She was a postdoctoral fellow at the Earth Institute and the Center for Research on Environmental Decisions (CRED) at Columbia University. Dr Attari is a 02017-18 Fellow at the Center for Advanced Study in the Behavioral Sciences (CASBS) at Stanford University (co-producers of this talk) and a 02018 Andrew Carnegie Fellow.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020180626-attari-podcast.mp3"
+},
+"duration":
+"PT67M36S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Facts, Feelings and Stories: How to Motivate Action on Climate Change: Shahzeen Attari"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"80569546",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-01-05T03:30:00",
+"description":
+"“You will find the future wherever people are having the most fun,” Johnson argues.  He chronicles how, throughout history, world-transforming innovation emerges from the endless quest for novelty in seemingly trivial entertainments--fashion, music, spices, magic, taverns, zoos, games.  He celebrates the observation of historian Johan Huizinga (Homo Ludens), “Civilization arises and unfolds in and as play.”\n\nSteven Johnson is the leading historian of creativity.  His books include Wonderland: How Play Made the Modern World; How We Got To Now; Where Good Ideas Come From; and Everything Bad Is Good For You.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020170104-johnson-podcast.mp3"
+},
+"duration":
+"PT83M39S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Steven Johnson: Wonderland: How Play Made the Modern World"
+}

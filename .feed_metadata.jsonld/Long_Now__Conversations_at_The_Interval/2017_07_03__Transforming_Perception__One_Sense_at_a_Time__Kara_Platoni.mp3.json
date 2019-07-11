@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"62941770",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-07-03T00:03:21",
+"description":
+"Kara Platoni went around the world to document the ways we humans are trying to expand our experience of the world beyond our basic senses. She found scientists, doctors, inventors, and cooks who are actively exploring the frontiers of perception. She gave us a taste of the science and shared amazing stories of biohackers, foodies, virtual reality researchers, and other sensory pioneers.\n\nKara Platoni is a science reporter who works the Nancy Drew beat, going anywhere there is a possibility of a weird adventure involving pirates, old clocks or (ideally) ghosts. For her book, We Have the Technology, she sofa-surfed through four countries and eight US states, visiting any lab, military base or biohacker basement that would let her get in on an experiment on the cutting edge of sensory science. She teaches narrative writing and is an assistant dean at UC Berkeley's Graduate School of Journalism.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020160301-platoni-podcast.mp3"
+},
+"duration":
+"PT58M18S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Transforming Perception, One Sense at a Time: Kara Platoni"
+}

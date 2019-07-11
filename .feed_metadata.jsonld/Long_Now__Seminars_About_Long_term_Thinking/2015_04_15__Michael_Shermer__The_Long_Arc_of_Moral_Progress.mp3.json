@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"166027315",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-04-15T02:30:00",
+"description":
+"Steven Pinker writes: “Shermer has engaged the full mantle of moral progress and considered how far we have come and how much farther that arc can be bent toward truth, justice, and freedom.\"\n\n“Through copious data and compelling examples Shermer shows how the arc of the moral universe, seen from a historical vantage point, bends toward civil rights and civil liberties, the spread of liberal democracy and market economies, and the expansion of women’s rights, gay rights, and even animal rights. Never in history has such a large percentage of the world’s population enjoyed so much freedom, autonomy, and prosperity.  The steadily unfolding revolution of gay marriage gives Shermer the opportunity to show how rights revolutions of many different kinds come about.“  [Steven Pinker is the author of The Better Angels of Our Nature.  He gave a SALT talk on “The Decline of Violence” in 02012.]\n\nMichael Shermer’s new book is The Moral Arc: How Science and Reason Lead Humanity toward Truth, Justice, and Freedom.  His previous books include The Believing Brain and The Science of Good and Evil.  He is the founder and editor-in-chief of Skeptic magazine and has a monthly column in Scientific American.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150414-shermer-podcast.mp3"
+},
+"duration":
+"PT86M26S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Michael Shermer: The Long Arc of Moral Progress"
+}

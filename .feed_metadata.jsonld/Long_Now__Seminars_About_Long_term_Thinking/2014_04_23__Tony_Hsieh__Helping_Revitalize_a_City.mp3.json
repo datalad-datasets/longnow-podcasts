@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"179833767",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-04-23T02:30:00",
+"description":
+"Can a successful company and a run-down downtown vitalize each other?\n\nTony Hsieh, CEO of the phenomenally successful Zappos, is betting exactly that in Las Vegas.  He moved his company headquarters into the former city hall and is integrating the Zappos campus into the surrounding neighborhood, meanwhile investing millions to provide a dense urban experience for the locals as well as his employees.  His “Downtown Project” declares: “We’ve allocated $350 million to aid in the revitalization of Downtown Las Vegas. We’re investing $200 million in real estate, $50 million in small businesses, $50 million in education, and $50 million in tech startups.”\n\nThe fantasy is well along into impressive reality, according to a January 02014 article in Wired.  What is being learned may change how cities and companies think of themselves---and of each other.\n\nHsieh’s theory of urban vitality comes from Edward Glaeser’s book The Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier.  His theory of company vitality he has spelled out in his own book, Delivering Happiness: A Path to Profits, Passion, and Purpose.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140422-hsieh-podcast.mp3"
+},
+"duration":
+"PT93M38S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Tony Hsieh: Helping Revitalize a City"
+}

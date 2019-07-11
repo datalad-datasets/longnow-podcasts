@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"64541470",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-12-07T20:19:28",
+"description":
+"The Internet was once seen as a democratizing force, but today social media platforms have become exploitable intermediaries of political discourse. How should governments, institutions and tech companies respond? In the wake of an Internet-mediated and norm-breaking  election, we've asked one of the United States' premier election law experts to speak for us about what comes next.\nAuthor and Stanford Law professor Nathaniel Persily focuses on the law of democracy, addressing issues such as voting rights, political parties, campaign finance and redistricting. A sought-after nonpartisan voice in voting rights, he has served as a court-appointed expert to draw legislative districting plans for Georgia, Maryland and New York and as special master for the redistricting of Connecticut’s congressional districts. His other principal area of scholarly interest concerns American public opinion toward various constitutional controversies.\nPersily designed the Constitutional Attitudes Survey, a national public opinion poll executed in both 02009 and 02010. The survey includes an array of questions concerning attitudes toward the Supreme Court, constitutional interpretation and specific constitutional controversies. He also served on the Presidential Commission on Election Administration, a bipartisan commission created by President Obama to deal with the long lines at the polling place and other administrative problems witnessed in the 02012 election.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020171128-persily-podcast.mp3"
+},
+"duration":
+"PT66M59S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Can Democracy Survive the Internet?: Nathaniel Persily"
+}

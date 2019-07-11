@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"42253585",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2008-02-05T03:30:00",
+"description":
+"Skeptical empiricist Nassim Taleb, author of The Black Swan: The Impact of the Highly Improbable, has bracing things to say about the future.  It is inevitable that we will be massively blindsided by events, because our understanding is misled by an array of beguiling illusions about reality.  Some lessons:  Events are not predictable, but consequences are, so focus on preparedness.  Pay attention to elders, because they've experienced more Black Swans.   Check Wikipedia's bio of Taleb for more on the vividness of his ideas and exposition.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020080204-taleb-podcast.mp3"
+},
+"duration":
+"PT87M57S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Nassim Nicholas Taleb: The Future Has Always Been Crazier Than We Thought"
+}

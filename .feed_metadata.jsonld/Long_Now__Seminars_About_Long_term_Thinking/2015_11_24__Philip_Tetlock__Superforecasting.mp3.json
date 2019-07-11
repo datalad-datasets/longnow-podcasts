@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"182555547",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-11-24T03:30:00",
+"description":
+"The pundits we all listen to are no better at predictions than a “dart-throwing chimp,” and they are routinely surpassed by normal news-attentive citizens.  So Philip Tetlock reported in his 02005 book, Expert Political Judgement—and in a January 02007 SALT talk.\n\nIt now turns out there are some people who are spectacularly good at forecasting, and their skills can be learned.  Tetlock discovered them in the course of building winning teams for a tournament of geopolitical forecasting run by IARPA—Intelligence Advanced Research Projects Activity.  His brilliant new book, SUPERFORECASTING: The Art and Science of Prediction, spells out the methodology the superforecasters developed.  Like Daniel Kahneman’s THINKING, FAST AND SLOW, the book changes how we think about thinking.\n\nPhilip Tetlock is a professor at the University of Pennsylvania.  With his co-researcher (and wife) Barbara Mellors he is running the Good Judgement Project, with its open competition for aspiring forecasters.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020151123-tetlock-podcast.mp3"
+},
+"duration":
+"PT95M01S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Philip Tetlock: Superforecasting"
+}

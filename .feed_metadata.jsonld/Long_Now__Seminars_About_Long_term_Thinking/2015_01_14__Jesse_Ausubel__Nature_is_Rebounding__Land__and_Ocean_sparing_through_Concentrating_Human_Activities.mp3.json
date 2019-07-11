@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"182969926",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2015-01-14T03:30:00",
+"description":
+"In the field of environmental progress the conflict between anecdote and statistics is so flagrant that most public understanding on the subject is upside down.  We worry about the wrong things, fail to worry about the right things, and fail to acknowledge and expand the things that are going well.\n\nFor decades at Rockefeller University Jesse Ausubel has assembled global data and trends showing that humanity may be entering an exceptionally Green century.  The most important trend is “land-sparing”—freeing up ever more land for nature thanks to agricultural efficiency and urbanization.  Ausubel notes that we are now probably at “peak farmland“ (so long as we don’t pursue the folly of biofuels).  Forests are coming back everywhere in the temperate zones and in many tropical areas, helped by replacing wild logging with tree plantations.  Human population is leveling rapidly and we are now probably at “peak children.”  Our energy sources continue to “decarbonize,” and a long-term “dematerialization” trend is reducing the physical load of civilization’s metabolism.\n\nIn the ocean, however, market hunting for fish remains highly destructive, even though aquaculture and mariculture are taking off some of the pressure.  In this area, as in the others, rigorous science and inventive technology are leading the way to the mutual flourishing of humanity and nature.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020150113-ausubel-podcast.mp3"
+},
+"duration":
+"PT95M16S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Jesse Ausubel: Nature is Rebounding: Land- and Ocean-sparing through Concentrating Human Activities"
+}

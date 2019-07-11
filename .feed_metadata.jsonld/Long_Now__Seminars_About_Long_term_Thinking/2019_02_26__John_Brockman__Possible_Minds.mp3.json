@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"92555373",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-02-26T03:30:00",
+"description":
+"John Brockman's newly released book Possible Minds: Twenty-Five Ways of Looking at AI  is the springboard for this Seminar on Artificial Intelligence. Brockman will interview several of the contributors to the book, Rodney Brooks, Alison Gopnik and Stuart Russell on stage. Following the interviews, Kevin Kelly will host the Q&amp;A and discussion with the group.\nJohn Brockman is founder and publisher of the online salon Edge.org, a website devoted to discussions of cutting-edge science by many of the world's foremost thinkers, the leaders of what he has termed \"the third culture.\"\nRodney Brooks is a computer scientist and roboticist, former Director (1997-2007) of the MIT Artificial Intelligence Laboratory and founder of Rethink Robotics and iRobot Corp.\nAlison Gopnik is a professor of psychology and affiliate professor of philosophy at the University of California at Berkeley. Her areas of expertise are in cognitive and language development, with specialties in the effect of language on thought, the development of a theory of mind, and causal learning.\nStuart Russell is a computer scientist focused on artificial intelligence and computational physiology. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco.Kevin Kelly is a Long Now Board member, founding executive editor of Wired magazine, and a former editor/publisher of the Whole Earth Review. He is a writer, photographer, conservationist, and editor and publisher of the Cool Tools website.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020190225-brockman-podcast.mp3"
+},
+"duration":
+"PT96M02S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"John Brockman: Possible Minds"
+}

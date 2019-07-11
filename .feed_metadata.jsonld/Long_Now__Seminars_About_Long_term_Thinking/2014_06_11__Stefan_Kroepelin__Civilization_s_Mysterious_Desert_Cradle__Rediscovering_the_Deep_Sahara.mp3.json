@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"190971120",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2014-06-11T02:30:00",
+"description":
+"Egypt’s pharaonic civilization rose on the Nile, but it was rooted in the deep Saharan desert and pushed by climate change, says Stefan Kröpelin.\n\nDescribed in Nature magazine as “one of the most devoted Sahara explorers of our time,” Kröpelin has survived every kind of desert hardship to discover the climate and cultural history of northern Africa.  He found that the “Green Sahara” arrived with monsoon rains 10,500 years ago, and people quickly moved into the new fertile savannah.  There they prospered as cattle pastoralists—their elaborate rock paintings show herds of rhinoceros and scenes of prehistoric life—until 7,300 years ago, when gradually increasing desiccation drove them to the Nile river, which they had previously considered too dangerous for occupation.\n\nTo manage the Nile, the former pastoralists helped to invent a pharaonic state 5,100 years ago.  Its 3,000-year continuity has never been surpassed.\n\nKröpelin, a climate scientist at the University of Cologne, is a dazzling speaker with hair-raising stories, great images, and a compelling tale about climate change and civilization.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020140610-kroepelin-podcast.mp3"
+},
+"duration":
+"PT99M26S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stefan Kroepelin: Civilization’s Mysterious Desert Cradle: Rediscovering the Deep Sahara"
+}

@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"18998612",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2010-02-01T20:00:00",
+"description":
+"Long Finance aims to &ldquo;improve society&rsquo;s understanding and use of finance over the long-term&rdquo;, in contrast to the short-termism that defines today&rsquo;s financial and economic views. The immediate objective of the initiative is to establish a Foundation that can ignite global debate on long-term finance, by examining how commerce should enable and encourage environmental and social sustainability.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020100201-brand-eno-rose-podcast.mp3"
+},
+"duration":
+"PT39M30S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Stewart Brand, Brian Eno, Alexander Rose: Long Finance: The Enduring Value Conference"
+}

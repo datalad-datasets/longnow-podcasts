@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"107487043",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2012-03-07T03:30:00",
+"description":
+"Human activities increasingly dominate 9 crucial planetary systems.  Add to the familiar ones---climate, biodiversity, and chemical pollution---atmospheric aerosols, ocean acidification, excess nitrogen in agriculture, too much land in agriculture, freshwater scarcity, and ozone depletion.  To have \"a safe operating space for humanity\" on Earth requires adjusting our behavior to work within those systems.  How we collectively step up to that responsibility will determine whether \"the Anthropocene\" (the current geological era shaped by humans) will be a tragedy or humanity's greatest accomplishment.\n\nBritish environmentalist Mark Lynas is the author of one of the finest climate books, Six Degrees, and of a new work, The God Species: How the Planet Can Survive the Age of Humans, which spells out a cohesive Green program for this century guided by the 9 boundaries.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020120306-lynas-podcast.mp3"
+},
+"duration":
+"PT89M34S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Mark Lynas: The Nine Planetary Boundaries: Finessing the Anthropocene"
+}

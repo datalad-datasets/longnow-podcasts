@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"78319976",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2017-10-31T02:30:00",
+"description":
+"Genome editing technologies provide the unprecedented ability to modify genetic material in a manner that is targeted, rapid, adaptable, and broadly accessible. Advances in genome editing form the foundation for new transformative applications across all of biology, ranging from highly personalized therapeutics to control of mosquito populations in the wild to reduce vector borne diseases. Extension of these technologies to gene drives and germline editing, which can alter the outcomes of inheritance, brings into focus the potential use of these tools in real clinical or ecological settings.\n\nWhile the potential for societal benefit from these technologies is immense, longer-term ramifications, such as the potential for these tools to impact large populations of organisms and ecosystems over many generations, must also be considered. Therefore, to support the safe and responsible use of gene editors, it is imperative that we innovate and build-in biosafety and biosecurity technologies early for future applications, including strategies to control, counter, and remediate the outcomes of gene editing. Co-development of safety measures ensures the continued rapid pace of technological progress, helps realize the potential of gene editors, and, importantly, enables novel applications to be accessible to the broadest and most impactful possible range of communities for public benefit.\n\nDr. Renee Wegrzyn is a Program Manager at DARPA working to apply the tools of synthetic biology to support biosecurity and outpace infectious disease. Dr. Wegrzyn holds Doctor of Philosophy and Bachelor of Science degrees in Applied Biology from the Georgia Institute of Technology.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020171030-wegrzyn-podcast.mp3"
+},
+"duration":
+"PT81M15S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Renee Wegrzyn: Engineering Gene Safety"
+}

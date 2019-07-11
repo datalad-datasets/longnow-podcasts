@@ -1,0 +1,32 @@
+{
+"@context":
+"https://schema.org/",
+"@type":
+"MediaObject",
+"contentSize":
+"52373698",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2011-07-26T02:30:00",
+"description":
+"As organisms, cities, and companies scale up, they all gain in efficiency, but then they vary.  The bigger an organism, the slower.  Yet the bigger a city is, the faster it runs.  And cities are structurally immortal, while corporations are structurally doomed.  Scaling up always creates new problems; cities can innovate faster than the problems indefinitely, while corporations cannot.\n\nThese revolutionary findings come from Geoffrey West's examination of vast quantities of data on the metabolic/economic behavior of organisms and organizations.  A theoretical physicist, West was president of Santa Fe Institute from 2005 to 2009 and founded the high energy physics group at Los Alamos National Laboratory.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/salt/redirect/salt-020110725-west-podcast.mp3"
+},
+"duration":
+"PT109M02S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Geoffrey B.  West: Why Cities Keep on Growing, Corporations Always Die, and Life Gets Faster"
+}
