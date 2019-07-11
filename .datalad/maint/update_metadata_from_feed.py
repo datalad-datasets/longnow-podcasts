@@ -49,7 +49,9 @@ def main(url):
             },
             # duration in ISO_8601
             'duration': 'PT{}M{}S'.format(
-                *entry['itunes_duration'].split(':')),
+                *entry['itunes_duration'].split(
+                    ':' if ':' in entry['itunes_duration']
+                    else '.')),
             'name': entry['title'],
             'description': entry['summary'],
             'encodingFormat': media_link['type'],
