@@ -9,7 +9,7 @@ from pathlib import (
     PosixPath,
     Path,
 )
-import json
+import simplejson as json
 
 sanitize_re = re.compile('[^a-zA-Z0-9.]')
 
@@ -65,7 +65,15 @@ def main(url):
         meta_path = meta_basepath / '{}.json'.format(str(media_path))
         meta_path.parent.mkdir(exist_ok=True, parents=True)
         meta_path.write_text(
-            json.dumps(doc)
+            # produce relatively compact, but also diff-friendly format
+            json.dumps(
+                doc,
+                indent=0,
+                separators=(',', ':\n'),
+                sort_keys=True,
+                ensure_ascii=False,
+                encoding='utf-8',
+            )
         )
 
 
