@@ -1,0 +1,14 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "name": "Podcasts of the Long Now Foundation",
+    "description": "Audio recordings of all lectures and conversations on long-term thinking produced by the LongNow foundation. Subscribe to the podcasts at http://longnow.org/seminars/podcast. Support the foundation by becoming a member: https://longnow.org/membership.",
+    "creator": {
+        "@type": "Organization",
+        "name": "The Long Now Foundation",
+        "url": "http://longnow.org"
+    },
+    "keywords": [
+        "podcast", "lecture", "long-term thinking"
+    ]
+}
