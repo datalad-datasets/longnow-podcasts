@@ -17,6 +17,8 @@
 
 ## On this dataset
 
-This is a [DataLad](https://datalad.org) dataset. It is not actually contain
+This is a [DataLad](https://datalad.org) dataset. It does not actually contain
 any audio recordings directly. Instead, it tracks identity and availability
-information of all media files advertised through the foundations podcast feeds.
+information of all media files advertised through the foundations podcast
+feeds.  To learn how to work with datasets like this, consult the [DataLad
+handbook](http://handbook.datalad.org).
