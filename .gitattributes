@@ -1,3 +1,4 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 .feed_metadata/** annex.largefiles=nothing
+.feed_metadata/logo* annex.largefiles=(largerthan=20kb)
