@@ -1,0 +1,22 @@
+# {title}
+
+{description}
+
+
+## Available recordings
+
+### Seminars About Long-term Thinking
+
+{saltepisodes}
+
+
+### Conversations at The Interval
+
+{intervalepisodes}
+
+
+## On this dataset
+
+This is a [DataLad](https://datalad.org) dataset. It is not actually contain
+any audio recordings directly. Instead, it tracks identity and availability
+information of all media files advertised through the foundations podcast feeds.
