@@ -12,7 +12,7 @@ def get_episode_metadata(dir):
     return [
         ep['metadata']['metalad_custom']
         for ep in ds.meta_dump(
-            path='Long_Now__Conversations_at_The_Interval',
+            path=dir,
             reporton='files',
             result_renderer='disabled',
         )
@@ -60,7 +60,7 @@ readme_file.write_text(readme_tmpl.format(
     title=dsmeta['metalad_custom']['name'],
     description=dsmeta['metalad_custom']['description'],
     saltepisodes=meta2episodelist(
-        'Long_Now__'),
+        'Long_Now__Seminars_About_Long_term_Thinking'),
     intervalepisodes=meta2episodelist(
         'Long_Now__Conversations_at_The_Interval'),
 ))
