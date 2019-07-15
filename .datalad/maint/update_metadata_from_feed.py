@@ -41,7 +41,10 @@ def main(url):
 
         # now we can write out the metadata documents
         doc = {
-            '@context': "https://schema.org/",
+            "@context": {
+                "@vocab": "https://schema.org/",
+                "datalad": "http://dx.datalad.org/"
+            },
             '@type': 'MediaObject',
             'distribution': {
                 '@type': 'DataDownload',
