@@ -1,6 +1,7 @@
 [datalad "dataset"]
 	id = b3ca2718-8901-11e8-99aa-a0369f7c647e
 [datalad "metadata"]
-	custom-content-source = .feed_metadata/{freldir}/{fname}.json
-	custom-dataset-source = .feed_metadata/dataset.json
+	custom-content-source = .datalad/feed_metadata/{freldir}/{fname}.json
+	custom-dataset-source = .datalad/feed_metadata/dataset.json
 	nativetype = metalad_custom
+	aggregate-unique-metalad-custom = false

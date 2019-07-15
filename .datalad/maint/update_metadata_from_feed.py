@@ -23,7 +23,7 @@ def main(url):
     """
     parsed = feedparser.parse(url)
     feeddir = Path(sanitize_re.sub('_', parsed['feed']['title']))
-    meta_basepath = Path('.feed_metadata')
+    meta_basepath = Path('.datalad') / 'feed_metadata'
     for entry in parsed['entries']:
         # first we need to build the target filename that annex importfeed
         # would generate so we know where to place the metadata
