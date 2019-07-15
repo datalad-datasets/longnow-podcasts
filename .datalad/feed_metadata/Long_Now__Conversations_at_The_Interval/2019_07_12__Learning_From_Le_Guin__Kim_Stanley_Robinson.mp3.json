@@ -1,0 +1,37 @@
+{
+"@context":
+{
+"@vocab":
+"https://schema.org/",
+"datalad":
+"http://dx.datalad.org/"
+},
+"@type":
+"MediaObject",
+"contentSize":
+"91272796",
+"creator":
+{
+"@type":
+"Organization",
+"name":
+"The Long Now Foundation"
+},
+"datePublished":
+"2019-07-12T19:18:50",
+"description":
+"The legacy of Ursula K Le Guin lives beyond the page  in generations of writers who have learned from her. She used fantastic fiction to imagine ideals for the real world. Kim Stanley Robinson, her student 40 years ago and now a celebrated science fiction writer himself, reflects on Le Guin the teacher,  her impact on his work, and how she changed the world.\nKim Stanley Robinson is an American novelist, widely recognized as one of the foremost living writers of science fiction. His work has been described as \"humanist science fiction\" and \"literary science fiction.\" He has published more than 20 novels including his much honored \"Mars trilogy\",  New York 2140  (02017), and Red Moon due out in October 02018. Robinson has a B.A. in Literature from UC San Diego and an M.A. in English from Boston University. He earned a Ph.D. in literature from UCSD with a dissertation on the works of Philip K. Dick.\nUrsula K Le Guin was one of the greatest imaginative writers of all time. Her science fiction and fantasy stories (as well as children's books, poetry, essays, and many other genres & forms) have sold millions of copies, earned dozens of awards, and stayed constantly in print. Her honors include six Nebula awards, seven Hugos, and the National Book Foundation Medal for Distinguished Contribution to American Letters. In 02003 she became the 20th writer ever to receive the Science Fiction and Fantasy Writers of America's Grand Master award. She passed away in January 02018. \nLe Guin's book of essays No Time to Spare: Thinking About What Matters  won a 02018 Hugo award and the 02017 collected edition of her Hainish Novels and Stories recently won a Locus award. A documentary entitled Worlds of Ursula K. Le Guin will debut in 02018.",
+"distribution":
+{
+"@type":
+"DataDownload",
+"contentURL":
+"http://podcast.longnow.org/interval/redirect/interval-020181113-robinson-podcast.mp3"
+},
+"duration":
+"PT94M47S",
+"encodingFormat":
+"audio/mpeg",
+"name":
+"Learning From Le Guin: Kim Stanley Robinson"
+}

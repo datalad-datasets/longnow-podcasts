@@ -1,6 +1,11 @@
 {
 "@context":
+{
+"@vocab":
 "https://schema.org/",
+"datalad":
+"http://dx.datalad.org/"
+},
 "@type":
 "MediaObject",
 "contentSize":
