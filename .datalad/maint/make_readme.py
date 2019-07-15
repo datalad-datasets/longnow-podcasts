@@ -38,6 +38,8 @@ def meta2episodelist(dir):
         sorted(
             get_episode_metadata(dir),
             key=lambda x: x['datePublished'],
+            # put newest first
+            reverse=True,
         )
     )
 
