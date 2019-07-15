@@ -2,11 +2,11 @@
 ".":
 {
 "content_info":
-"objects/a5/cd257ba7cf443552e17c6132d32fc41f377cea.xz",
+"objects/98/2e3e85f9db6f0e741a909b1e124812aaafcd1a.xz",
 "datalad_version":
 "0.12.0rc4.dev185",
 "dataset_info":
-"objects/88/471f856994d24caf41c2b1088c40d8bf114067.xz",
+"objects/fa/7076bdb817c0a2cc26810d29382b658e388c0c.xz",
 "extractors":
 {
 "metalad_annex":
@@ -47,6 +47,6 @@ true,
 "id":
 "b3ca2718-8901-11e8-99aa-a0369f7c647e",
 "refcommit":
-"80310175aa64035d0a18248cb882586d2e6ea394"
+"36a30a1a1d8725658410b650d516d9d3c640427d"
 }
 }
